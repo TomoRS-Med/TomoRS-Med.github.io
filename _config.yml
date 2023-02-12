@@ -21,9 +21,9 @@ author: Tetsuya Yamada
 
 navbar-links:
   Home: "index"
+  Research: "research"
   Profile: "profile"
   Publications: "publications"
-  Research: "research"
   Contacts: "contacts"
   Japanese (日本語): "japanese"
 
