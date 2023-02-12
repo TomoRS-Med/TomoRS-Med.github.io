@@ -10,7 +10,7 @@ share-title: Tetsuya Yamada - Publications
 ***Applied Sciences*** (2022). 
 [Link](https://www.mdpi.com/2076-3417/12/18/9236)
 
-**Yamada T<sup>#</sup>**, Shi S<sup>#</sup>, Ueda HR<sup>&dagger;</sup>
+**Yamada T<sup>#</sup>**, Shi S<sup>#</sup>, Ueda HR<sup>&dagger;</sup>.
 <ins>A design principle of spindle oscillations in mammalian sleep. </ins>
 ***iScience*** (2022). 
 [Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432) / [Press Release (Japanese)](https://www.jst.go.jp/pr/announce/20220222-2/index.html)
