@@ -4,6 +4,10 @@ title: Publications
 share-title: Tetsuya Yamada - Publications
 ---
 
+<ins>[Google Scholar](https://scholar.google.com/citations?user=oIi6ZLgAAAAJ&hl=en)</ins><br>
+<ins>[ORCID](https://orcid.org/0000-0001-8601-737X)</ins><br>
+<ins>[ResearchGate](https://www.researchgate.net/profile/Tetsuya-Yamada-9)</ins>
+
 ## Published
 **Yamada T<sup># &dagger;</sup>**, Shi S<sup># &dagger;</sup>. 
 <ins>Estimating Infection-Related Human Mobility Networks Based on Time Series Data of COVID-19 Infection in Japan.</ins> 
