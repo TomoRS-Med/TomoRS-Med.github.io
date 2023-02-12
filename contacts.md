@@ -8,6 +8,6 @@ share-title: Tetsuya Yamada - Contacts
 t.yamada [at] zmbh.uni-heidelberg.de
 
 ### Adress
-Heinrich-Zimmer-Lesesaal
-Im Neuenheimer Feld 330
+Heinrich-Zimmer-Lesesaal<br>
+Im Neuenheimer Feld 330<br>
 69120 Heidelberg, Germany
