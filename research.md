@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profile
+title: Research
 share-title: Tetsuya Yamada - Research
 ---
 
