@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Tetsuya Yamada
 
 # Your name to show in the footer
-author: Some Person
+author: Tetsuya Yamada
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -32,10 +32,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -49,16 +49,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "t.yamada@zmbh.uni-heidelberg.de"
+  github: tyamadat
+  twitter: TYamadatt
+  linkedin: tetsuya-yamada-250337221
+  ORCID: 0000-0001-8601-737X
+  google-scholar: citations?user=oIi6ZLgAAAAJ&hl=en
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,8 +73,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
