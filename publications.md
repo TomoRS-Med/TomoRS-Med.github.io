@@ -13,12 +13,12 @@ share-title: Tetsuya Yamada - Publications
 **Yamada T<sup># &dagger;</sup>**, Shi S<sup># &dagger;</sup>. 
 <ins>Estimating Infection-Related Human Mobility Networks Based on Time Series Data of COVID-19 Infection in Japan.</ins> 
 ***Applied Sciences*** (2022). 
-[Link](https://www.mdpi.com/2076-3417/12/18/9236) / [Code](https://github.com/tyamadat/seir_pde)
+<ins>[Link](https://www.mdpi.com/2076-3417/12/18/9236)</ins> / <ins>[Code](https://github.com/tyamadat/seir_pde)</ins>
 
 **Yamada T<sup>#</sup>**, Shi S<sup>#</sup>, Ueda HR<sup>&dagger;</sup>.
 <ins>A design principle of spindle oscillations in mammalian sleep. </ins>
 ***iScience*** (2022). 
-[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432) / [Press Release (Japanese)](https://www.jst.go.jp/pr/announce/20220222-2/index.html) / [Code](https://github.com/tyamadat/an_spindle)
+<ins>[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432)</ins> / <ins>[Press Release (Japanese)](https://www.jst.go.jp/pr/announce/20220222-2/index.html)</ins> / <ins>[Code](https://github.com/tyamadat/an_spindle)</ins>
 
 
 
