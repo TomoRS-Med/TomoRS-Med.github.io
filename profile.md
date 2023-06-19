@@ -19,7 +19,7 @@ Advisor: <ins>[Ryuichiro Nakato](https://nakatolab.iqb.u-tokyo.ac.jp/index-e.htm
 2018 Oct - 2020 Jun
 : Undergraduate Researcher<br>
 Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
-Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Shoi Shi](https://wpi-iiis.tsukuba.ac.jp/research/member/detail/shoishi/)</ins>
+Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Shoi Shi](https://evoevokulala.jp/)</ins>
 
 
 ## Education
