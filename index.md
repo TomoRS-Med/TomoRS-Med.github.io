@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wellcome
-share-title: Tetsuya Yamada-Saito - Home
+share-title: Tetsuya Yamada - Home
 share-description: Explore the portfolio of Tetsuya Yamada, a PhD student with an interest in bioinformatics, evolutionary and developmental (evo-devo) biology, and medicine. Learn more about Tetsuya's experience and education.
 ---
 
