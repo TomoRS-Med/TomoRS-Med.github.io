@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 山田(齋藤) 哲矢
+title: 山田 哲矢
 share-title: Tetsuya Yamada - Japanese
 ---
 
