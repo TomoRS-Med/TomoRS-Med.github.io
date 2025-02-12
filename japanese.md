@@ -27,6 +27,6 @@ share-title: Teomohide R. Sato - Japanese
 
 ## 奨学金
 2024年12月 - 2024年12月
-: <ins>[有馬聡記念フェローシップ]</ins> 受賞
+: 有馬聡記念フェローシップ 受賞
 
 
