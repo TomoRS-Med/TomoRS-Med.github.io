@@ -51,12 +51,12 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "t.yamada@zmbh.uni-heidelberg.de"
-  github: tyamadat
-  twitter: TYamadatt
-  linkedin: tetsuya-yamada-250337221
-  ORCID: 0000-0001-8601-737X
-  google-scholar: citations?user=oIi6ZLgAAAAJ&hl=en
+  email: "amadeusk31025@gmail.com"
+  github: TomoRS-Med
+  twitter: Tomohide R. Sato
+  linkedin: tomohide-r-sato-abb153323
+  ORCID: 0000-0002-4536-548X
+  google-scholar: citations?user=fdt5J1EAAAAJ
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  patreon: DeanAttali
