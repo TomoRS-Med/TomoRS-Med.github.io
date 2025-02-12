@@ -46,10 +46,10 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Clinical activities
 
-2024.May-2024.Jun
+2024 May-2024.Jun
 : Elective clerkship at Department of Psychiatry Johns Hopkins University School of Medicine<br>
 
-2023.Jan-2024.Nov
+2023 Jan-2024.Nov
 : Clinical clerkship at The University of Tokyo Hospital<br>
 
 ## Academic conferences
@@ -72,22 +72,22 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Certifications
 
-2024.Apr
+2024 Apr
 : OET Medicine satisfied criteria for ECFMG certificate <br>
 
-2024.Mar
+2024 Mar
 : USMLE Step2-CK Pass<br>
 
-2024.Feb
+2024 Feb
 : TOEIC 985<br>
 
-2023.Aug
+2023 Aug
 : TOEFL iBT 115<br>
 
-2023.Mar
+2023 Mar
 : USMLE Step1 Pass<br>
 
-2021.Dec
+2021 Dec
 : Applied Information Technology Engineer Examination<br>
 
 ## Fellowships & Grants
