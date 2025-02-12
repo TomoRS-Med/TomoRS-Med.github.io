@@ -1,0 +1,86 @@
+---
+layout: page
+title: Profile
+share-title: Tomohide R. Sato - Profile
+---
+
+## Research Experience
+
+2021 Oct - Present
+: Undergraduate Researcher<br>
+Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Koji L. Ode](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins>
+
+2024 Jun - 2024 Present
+: Student Internship<br>
+Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK<br>
+Advisor: <ins>[Mino Belle](https://research.manchester.ac.uk/en/persons/mino-belle)</ins>
+
+2024 May - 2024 Jun
+: Student Internship<br>
+Schizophrenia Center, Faculty of Medicine, School of Medicine, Johns Hopkins University, Baltimore, USA<br>
+Advisor: <ins>[Akira Sawa](https://profiles.hopkinsmedicine.org/provider/akira-sawa/2777051)</ins><br>
+Report: <ins>[Activity report](https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrfiles.com/ugd/d1a05d_dd16de7a20c44d74922b167d6204b164.pdf)</ins>
+
+2024 Apr - 2024 May
+: Student Internship<br>
+Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Yukinori Okada]((https://genome.m.u-tokyo.ac.jp/tools.html))</ins>
+
+2024 Apr - 2024 May
+: Student Internship<br>
+Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Yukinori Okada]((https://genome.m.u-tokyo.ac.jp/tools.html))</ins>
+
+2024 Apr - 2024 May
+: Student Internship<br>
+Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Yukinori Okada]((https://genome.m.u-tokyo.ac.jp/tools.html))</ins>
+
+2024 Apr - 2024 May
+: Student Internship<br>
+Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Yukinori Okada]((https://genome.m.u-tokyo.ac.jp/tools.html))</ins>
+
+2023 Jan - 2023 Feb
+: Student Internship<br>
+Department of Neurophysiology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Masanobu Kano](https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Members_j.html)</ins>
+
+2022 Feb - 2022 Mar
+: Student Internship<br>
+Department of System Physiology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
+
+
+## Education
+
+2019 - 2025
+: M.D.<br>
+Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+
+
+## Fellowships & Grants
+2024 Dec - 2024 Dec
+: Scholarship for research activities, Satoshi Arima Memorial Fellowship ($650)
+
+2024 Jun - 2024 Jul
+: Scholarship for Studying Abroad, MD Program ($1090)
+
+2024 May - 2024 Jun
+: Scholarship for Studying Abroad, Yasukawa Nobuko Incentive Fund ($2600)
+
+2024 May - 2024 Jun
+: Scholarship for Studying Abroad, Otsubo Osamu Tetsumon Fellowship Fund ($650)
+
+
+## Awards
+
+2024 Dec
+: Satoshi Arima Memorial Fellowship ($900)<br>
+Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+
+2024 Jan
+: Dean’s award for excellence in clinical clerkship<br>
+Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+
