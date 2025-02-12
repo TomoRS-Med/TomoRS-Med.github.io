@@ -81,5 +81,5 @@ Aside from being a medical student, I am a professional pianist in Japan. At the
 
 ## Piano Performance movies
 22th Chopin International Piano Competition in Asia Chopinist B category: Gold Prize<br>
-Youtube: <ins>[Piano music]([https://square.umin.ac.jp/bme/Member.html](https://www.youtube.com/watch?v=6tgS6vIekGo))</ins>
+Youtube: <ins>[Piano music](https://www.youtube.com/watch?v=6tgS6vIekGo)</ins>
 
