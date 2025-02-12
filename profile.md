@@ -72,7 +72,7 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Certifications
 
-2024.4
+2024.Apr
 : OET Medicine satisfied criteria for ECFMG certificate <br>
 
 2024.Mar
