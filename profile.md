@@ -59,8 +59,37 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 : M.D.<br>
 Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
+## Clinical activities
+
+2024.May-2024.Jun
+: Elective clerkship at Department of Psychiatry Johns Hopkins University School of Medicine<br>
+
+2023.Jan-2024.Nov
+: Clinical clerkship at The University of Tokyo Hospital<br>
+
+
+## Certifications
+
+2024.4
+: OET Medicine satisfied criteria for ECFMG certificate <br>
+
+2024.Mar
+: USMLE Step2-CK Pass<br>
+
+2024.Feb
+: TOEIC 985<br>
+
+2023.Aug
+: TOEFL iBT 115<br>
+
+2023.Mar
+: USMLE Step1 Pass<br>
+
+2021.Dec
+: Applied Information Technology Engineer Examination<br>
 
 ## Fellowships & Grants
+
 2024 Dec - 2024 Dec
 : Scholarship for research activities, Satoshi Arima Memorial Fellowship ($650)
 
@@ -74,7 +103,7 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 : Scholarship for Studying Abroad, Otsubo Osamu Tetsumon Fellowship Fund ($650)
 
 
-## Awards
+## Awards, Honors
 
 2024 Dec
 : Satoshi Arima Memorial Fellowship ($900)<br>
@@ -84,3 +113,5 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 : Dean’s award for excellence in clinical clerkship<br>
 Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
+2018 Aug
+: Asian Science Camp Japan Representative
