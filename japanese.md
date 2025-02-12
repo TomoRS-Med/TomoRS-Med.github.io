@@ -5,7 +5,7 @@ share-title: Teomohide R. Sato - Japanese
 ---
 
 ## 研究
-睡眠の生理学
+睡眠の生理学に関する研究に従事してきました。
 
 
 ## 経歴
