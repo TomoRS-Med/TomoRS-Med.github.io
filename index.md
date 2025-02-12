@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Wellcome
-share-title: Tetsuya Yamada - Home
-share-description: Explore the portfolio of Tetsuya Yamada, a PhD student with an interest in bioinformatics, evolutionary and developmental (evo-devo) biology, and medicine. Learn more about Tetsuya's experience and education.
+share-title: Tomohide R. Sato - Home
+share-description: Explore the portfolio of Tomohide R. Sato, an undergraduate student with an interest in sleep medicine, neuroscience, theoretical biology, and medicine. Learn more about Tomohide's experience and education.
 ---
 
 <img src="/assets/img/portrait_400x400.jpg" width="200" align="right">
-I am **Tetsuya Yamada**, a computational biologist interested in and working on the genetic bases of mammalian evolution. Currently I am a PhD student at Heidelberg University in the group of Henrik Kaessmann. 
+I am **Tomohide R. Sato**, a computational biologist interested in and working on the mystery of sleep homeostasis. Currently I am an undegraduate medical student at University of Tokyo in the group of Prof. Hiroki R. Ueda. 
