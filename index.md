@@ -6,4 +6,4 @@ share-description: Explore the portfolio of Tomohide R. Sato, an undergraduate s
 ---
 
 <img src="/assets/img/IMG_2824.jpeg" width="200" align="right">
-I am **Tomohide R. Sato**, a computational biologist interested in and working on the mystery of sleep homeostasis. Currently I am an undegraduate medical student at University of Tokyo in the group of Prof. Hiroki R. Ueda. 
+I am **Tomohide R. Sato**, a computational biologist working on the mystery of sleep homeostasis. Currently I am an undegraduate medical student at University of Tokyo in the group of Prof. Hiroki R. Ueda. 
