@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wellcome
+title: Welcome
 share-title: Tomohide R. Sato - Home
 share-description: Explore the portfolio of Tomohide R. Sato, an undergraduate student with an interest in sleep medicine, neuroscience, theoretical biology, and medicine. Learn more about Tomohide's experience and education.
 ---
