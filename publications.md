@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-share-title: Tetsuya Yamada - Publications
+share-title: Tomohide R. Sato - Publications
 ---
 
 <ins>[Google Scholar](https://scholar.google.co.jp/citations?user=fdt5J1EAAAAJ&hl=ja&oi=ao)</ins><br>
