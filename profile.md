@@ -5,7 +5,6 @@ share-title: Tomohide R. Sato - Profile
 ---
 
 ## Research Experience
-
 2021 Apr - Present
 : Undergraduate Researcher・ERATO UEDA Biological Timing Project student research assistant<br>
 Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
@@ -39,13 +38,11 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 
 
 ## Education
-
 2019 - 2025
 : M.D.<br>
 Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Clinical activities
-
 2024 May - 2024.Jun
 : Elective clerkship at Department of Psychiatry Johns Hopkins University School of Medicine<br>
 
@@ -53,7 +50,6 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 : Clinical clerkship at The University of Tokyo Hospital<br>
 
 ## Academic conferences
-
 2024 Dec 
 : Poster presentation at 31th Annual Meeting, Japanese Soc. Chronobiology 2024<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
@@ -72,7 +68,6 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 
 ## Certifications
-
 2024 Apr
 : OET Medicine satisfied criteria for ECFMG certificate <br>
 
@@ -92,7 +87,6 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 : Applied Information Technology Engineer Examination<br>
 
 ## Fellowships & Grants
-
 2024 Dec - 2024 Dec
 : Scholarship for research activities, Satoshi Arima Memorial Fellowship ($650)
 
@@ -107,7 +101,6 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 
 ## Awards, Honors
-
 2024 Dec
 : Satoshi Arima Memorial Fellowship ($900)<br>
 Faculty of Medicine, The University of Tokyo, Tokyo, Japan
