@@ -12,7 +12,7 @@ share-title: Tomohide R. Sato - Japanese
 **Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
 <ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
 ***iScience*** (2025). 
-<ins>[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432)</ins> / <ins>[Press Release (Japanese)](https://www.u-tokyo.ac.jp/content/400255946.pdf)</ins> / <ins>[Code](https://github.com/TomoRS-Med/Na_paper)</ins>
+<ins>[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432)</ins> / <ins>[Press Release (Japanese)](https://www.u-tokyo.ac.jp/content/400255946.pdf)</ins> / <ins>[Code](https://github.com/TomoRS-Med/Na_paper)</ins><br>
 &dagger;: correspondence
 
 
