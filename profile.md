@@ -11,7 +11,7 @@ share-title: Tomohide R. Sato - Profile
 Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
 Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Koji L. Ode](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins>
 
-2024 Jun - 2024 Present
+2024 Jun - Present
 : Student Internship<br>
 Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK<br>
 Advisor: <ins>[Mino Belle](https://research.manchester.ac.uk/en/persons/mino-belle)</ins>
