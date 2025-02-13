@@ -24,7 +24,7 @@ Report: <ins>[Activity report](https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrf
 
 2024 Apr - 2024 May
 : Student Internship<br>
-Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
+Department of Systems Genetics, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
 Advisor: <ins>[Yukinori Okada](https://genome.m.u-tokyo.ac.jp/tools.html)</ins>
 
 2023 Jan - 2023 Feb
