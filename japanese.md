@@ -80,7 +80,7 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 ## 臨床経験
 
-2024 5月　- 2024 6月
+2024 5月 - 2024 6月
 : Johns Hopkins大学病院・精神科でのエレクティブクラークシップ<br>
 
 2023 1月 - 2024 11月
