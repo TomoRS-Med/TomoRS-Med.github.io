@@ -60,7 +60,7 @@ Researchmap: <ins>[佐藤](https://researchmap.jp/TomoRS)</ins><br>
 
 2024 1月
 : 臨床実習学部長賞受賞<br>
-Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+東京大学医学部医学科
 
 2018 8月
 : アジアサイエンスキャンプ2018・日本代表
