@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-share-title: Teomohide R. Sato - Japanese
+share-title: Tomohide R. Sato - Japanese
 ---
 
 ## 研究
