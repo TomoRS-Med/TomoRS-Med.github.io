@@ -7,7 +7,7 @@ share-title: Tomohide R. Sato - Profile
 ## Research Experience
 
 2021 Apr - Present
-: Undergraduate Researcher<br>
+: Undergraduate Researcher・ERATO UEDA Biological Timing Project student research assistant<br>
 Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
 Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Koji L. Ode](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins>
 
