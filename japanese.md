@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: 自己紹介
 share-title: Tomohide R. Sato - Japanese
 ---
 
