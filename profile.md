@@ -54,21 +54,22 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Academic conferences
 
-2022 Dec 
-: Poster presentation at 29th Annual Meeting, Japanese Soc. Chronobiology 2022<br>
-: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
-
-2023 Dec 
-: Poster presentation at 30th Annual Meeting, Japanese Soc. Chronobiology 2023 and 45th Annual Meeting, Japanese Soc. Sleep Research 2023<br>
-: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
+2024 Dec 
+: Poster presentation at 31th Annual Meeting, Japanese Soc. Chronobiology 2024<br>
+: A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
 2024 Sep 
 : Poster presentation at ICMMA2024 International Conference on “Self-organization in Life and Matter”<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
-2024 Dec 
-: Poster presentation at 31th Annual Meeting, Japanese Soc. Chronobiology 2024<br>
-: A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
+2023 Dec 
+: Poster presentation at 30th Annual Meeting, Japanese Soc. Chronobiology 2023 and 45th Annual Meeting, Japanese Soc. Sleep Research 2023<br>
+: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
+
+2022 Dec 
+: Poster presentation at 29th Annual Meeting, Japanese Soc. Chronobiology 2022<br>
+: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
+
 
 ## Certifications
 
