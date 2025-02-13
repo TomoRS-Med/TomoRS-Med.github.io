@@ -10,7 +10,6 @@ share-title: Tomohide R. Sato - Publications
 <ins>[GitHub](https://github.com/TomoRS-Med/Na_paper)</ins><br>
 
 ## Published
-
 **Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
 <ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
 ***iScience*** (2025). 
