@@ -6,7 +6,7 @@ share-description: Explore the portfolio of Tomohide R. Sato, an undergraduate s
 ---
 
 <img src="/assets/img/IMG_2824.jpeg" width="200" align="right">
-My name is **Tomohide R. Sato**, a soon-to-be physician-scientist working on the mystery of sleep homeostasis. Currently I am an undegraduate medical student at University of Tokyo in the group of Prof. Hiroki R. Ueda. 
+My name is **Tomohide R. Sato**, a soon-to-be physician-scientist working on the mystery of sleep homeostasis. Currently I am an undegraduate medical student at University of Tokyo in the group of Prof. Hiroki R. Ueda. <br>
 
-### Email
+Email
 chopinist [at] g.ecc.u-tokyo.ac.jp, amadeusk31025 [at] gmail.com
