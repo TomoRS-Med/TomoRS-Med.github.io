@@ -218,3 +218,7 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 第22回ショパン国際ピアノコンクールin Asia ショパニストB部門アジア大会 金賞<br>
 Youtube: <ins>[演奏動画](https://www.youtube.com/watch?v=6tgS6vIekGo)</ins>
 
+
+### Email
+chopinist [at] g.ecc.u-tokyo.ac.jp, amadeusk31025 [at] gmail.com
+
