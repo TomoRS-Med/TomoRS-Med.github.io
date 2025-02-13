@@ -35,7 +35,7 @@ share-title: Tomohide R. Sato - Japanese
 
 ## 資格
 2024 4月
-: OET Medicine、ECFMG certificateの基準クリア <br>
+: OET Medicine Pass (ECFMG Certificate基準) <br>
 
 2024 3月
 : USMLE Step2-CK Pass<br>
@@ -55,7 +55,7 @@ share-title: Tomohide R. Sato - Japanese
 
 ## 受賞歴・表彰歴
 2024 12月
-: 有馬聡記念フェローシップ受賞 ($900)<br>
+: 有馬聡記念フェローシップ受賞<br>
 東京大学医学部医学科
 
 2024 1月
