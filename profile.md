@@ -46,10 +46,10 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Clinical activities
 
-2024 May-2024.Jun
+2024 May - 2024.Jun
 : Elective clerkship at Department of Psychiatry Johns Hopkins University School of Medicine<br>
 
-2023 Jan-2024.Nov
+2023 Jan - 2024.Nov
 : Clinical clerkship at The University of Tokyo Hospital<br>
 
 ## Academic conferences
