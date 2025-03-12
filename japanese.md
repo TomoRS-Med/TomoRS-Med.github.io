@@ -52,6 +52,8 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 2021 12月
 : 応用情報技術者<br>
 
+2017 3月
+: 英検1級<br>
 
 ## 受賞歴・表彰歴
 2024 12月
@@ -108,21 +110,21 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 
 ## 学会参加
-2022 12月
-: 第29回 日本時間生物学会学術大会 ポスター発表<br>
-: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
-
-2023 12月 
-: 第30回日本時間生物学会学術大会・日本睡眠学会第45回定期学術大会 ポスター発表<br>
-: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
+2024 11月 
+: 第31回日本時間生物学会学術大会 ポスター発表<br>
+: A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
 2024 9月 
 : Poster presentation at ICMMA2024 International Conference on “Self-organization in Life and Matter”<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
-2024 12月 
-: 第31回日本時間生物学会学術大会 ポスター発表<br>
-: A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
+2023 12月 
+: 第30回日本時間生物学会学術大会・日本睡眠学会第45回定期学術大会 ポスター発表<br>
+: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
+
+2022 12月
+: 第29回 日本時間生物学会学術大会 ポスター発表<br>
+: A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
 
 
 ## 奨学金
@@ -143,65 +145,67 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 4歳の時からピアノを続けてきました。現在はアカデミアのことをやりつつ、趣味としてピアノを続け、時々舞台で演奏する機会を頂いています。医学部生として、音楽を通じて医療の道に貢献するためにできることは何かを考えています。
 
 ## ピアノの受賞歴
-2008
-: 2008年度ピティナ・ピアノコンペティションB級 金賞
-<br>
-
-2009
-: 第10回ショパン国際ピアノコンクールin Asia 小学校1, 2年生部門アジア大会 金賞
-<br>
-
-2013
-: 第23回日本クラシック音楽コンクールピアノ部門中学男子の部 第5位
-<br>
-
-2014
-: 第8回横浜国際音楽コンクール ピアノ部門中学生の部 第4位
-<br>
-
-2015
-: 第9回横浜国際音楽コンクール　ピアノ部門中学生の部 審査員特別賞
-<br>
-
-2016
-: 第17回ショパン国際ピアノコンクールin Asia 中学生部門アジア大会 銀賞
-<br>
-
-2016
-: 第17回大阪国際音楽コンクールのアマチュア部門スーペリアコース 第2位
-<br>
-
-2017
-: 第18回ショパン国際ピアノコンクールin Asia 高校生部門アジア大会 銀賞
+2021
+: 第15回セシリア国際音楽コンクール ピアノ部門大学生Ⅰの部本選 最高位
 <br>
 
 2021
 : 第22回ショパン国際ピアノコンクールin Asia ショパニストB部門アジア大会 金賞
 <br>
 
-2021
-: 第15回セシリア国際音楽コンクール ピアノ部門大学生Ⅰの部本選 最高位
+2017
+: 第18回ショパン国際ピアノコンクールin Asia 高校生部門アジア大会 銀賞
 <br>
+
+2016
+: 第17回大阪国際音楽コンクールのアマチュア部門スーペリアコース 第2位
+<br>
+
+2016
+: 第17回ショパン国際ピアノコンクールin Asia 中学生部門アジア大会 銀賞
+<br>
+
+2015
+: 第9回横浜国際音楽コンクール　ピアノ部門中学生の部 審査員特別賞
+<br>
+
+2014
+: 第8回横浜国際音楽コンクール ピアノ部門中学生の部 第4位
+<br>
+
+2013
+: 第23回日本クラシック音楽コンクールピアノ部門中学男子の部 第5位
+<br>
+
+2009
+: 第10回ショパン国際ピアノコンクールin Asia 小学校1, 2年生部門アジア大会 金賞
+<br>
+
+2008
+: 2008年度ピティナ・ピアノコンペティションB級 金賞
+<br>
+
 
 ## 演奏活動
-2017
-: 介護施設でのコンサート (グランケアあざみ野)
-<br>
-
-2017
-: チャイルドエイド チャリティーコンサート
+2025
+: ルーテル市ヶ谷ホールでのチャリティーコンサート (がん患者さん・ご家族の心理面でのサポートを行う「マギーズ東京」を支援するチャリティーコンサート)
 <br>
 
 2024
 : 東大病院でのクリスマス・コンサート (グランケアあざみ野)
 <br>
 
-2025
-: ルーテル市ヶ谷ホールでのチャリティーコンサート (がん患者さん・ご家族の心理面でのサポートを行う「マギーズ東京」を支援するチャリティーコンサート)
+2017
+: チャイルドエイド チャリティーコンサート
 <br>
 
+2017
+: 介護施設でのコンサート (グランケアあざみ野)
+<br>
+
+
 ## マスターコース
-2016
+2023
 : Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Bronisława Kawalla-Ryszka)
 <br>
 
@@ -209,7 +213,7 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 : Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Jerzy Romaniuk)
 <br>
 
-2023
+2016
 : Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Bronisława Kawalla-Ryszka)
 <br>
 
