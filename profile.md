@@ -50,7 +50,7 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 : Clinical clerkship at The University of Tokyo Hospital<br>
 
 ## Academic conferences
-2024 Dec 
+2024 Nov 
 : Poster presentation at 31th Annual Meeting, Japanese Soc. Chronobiology 2024<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
@@ -85,6 +85,9 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 2021 Dec
 : Applied Information Technology Engineer Examination<br>
+
+2017 Mar
+: Eiken 1st grade
 
 ## Fellowships & Grants
 2024 Dec - 2024 Dec
