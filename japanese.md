@@ -24,7 +24,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 2025年3月
 : 東京大学医学部医学科 卒業
 
-2022年4月
+2021年4月
 : 東京大学医学部医学科 進学
 
 2019年4月
