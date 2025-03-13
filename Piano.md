@@ -58,7 +58,7 @@ Aside from being a medical student, I am a professional pianist in Japan. At the
 <br>
 
 2024
-: Christmas Concert at the Univerisy of Tokyo Hospital (グランケアあざみ野)
+: Christmas Concert at the Univerisy of Tokyo Hospital 
 <br>
 
 2025
