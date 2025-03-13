@@ -192,7 +192,7 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 <br>
 
 2024
-: 東大病院でのクリスマス・コンサート (グランケアあざみ野)
+: 東大病院でのクリスマス・コンサート 
 <br>
 
 2017
