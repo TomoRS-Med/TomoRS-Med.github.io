@@ -34,6 +34,9 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 : 聖光学院高等学校 卒業
 
 ## 資格
+2025 3月
+: 医師国家試験 合格 <br>
+
 2024 4月
 : OET Medicine Pass (ECFMG Certificate基準) <br>
 
