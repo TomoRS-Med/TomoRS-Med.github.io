@@ -68,6 +68,9 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 
 ## Certifications
+2025 Mar
+: Medical Licence Exam (Japan) Pass <br>
+
 2024 Apr
 : OET Medicine satisfied criteria for ECFMG certificate <br>
 
