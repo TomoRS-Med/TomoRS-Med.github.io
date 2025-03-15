@@ -144,6 +144,16 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 : 安川信子医学奨励基金 (留学支援奨学金) 
 
 
+## 専門的貢献活動 (Professional services)
+2022 May
+: パネルディスカッション "Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine" にパネラーとして参加<br>
+Japanese Medical Society of America, 東京大学医学部
+
+2022 Mar
+: パネルディスカッション "Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution." にパネラーとして参加<br>
+Japanese Medical Society of America, 東京大学医学部
+
+
 ## ピアノについて
 4歳の時からピアノを続けてきました。現在はアカデミアのことをやりつつ、趣味としてピアノを続け、時々舞台で演奏する機会を頂いています。医学部生として、音楽を通じて医療の道に貢献するためにできることは何かを考えています。
 
