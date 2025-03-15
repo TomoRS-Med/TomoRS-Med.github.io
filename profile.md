@@ -117,3 +117,12 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 2018 Aug
 : Asian Science Camp Japan Representative
+
+## Professional services
+2022 May
+: Panelist at the panel discussion "Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine"<br>
+Japanese Medical Society of America, Faculty of Medicine, The University of Tokyo
+
+2022 Mar
+: Panelist at the panel discussion "Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution."<br>
+Japanese Medical Society of America, Faculty of Medicine, The University of Tokyo
