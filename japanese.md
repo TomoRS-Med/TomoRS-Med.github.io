@@ -18,138 +18,138 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 
 ## 経歴
-2025年4月
+2025年　4月
 : 初期研修開始・東京大学大学院医学系研究科 博士課程入学
 
-2025年3月
+2025年　3月
 : 東京大学医学部医学科 卒業
 
-2021年4月
+2021年　4月
 : 東京大学医学部医学科 進学
 
-2019年4月
+2019年　4月
 : 東京大学理科二類 入学
 
-2019年3月
+2019年　3月
 : 聖光学院高等学校 卒業
 
 ## 資格
-2025 3月
+2025年 3月
 : 医師国家試験 合格 <br>
 
-2024 4月
+2024年 4月
 : OET Medicine Pass (ECFMG Certificate基準) <br>
 
-2024 3月
+2024年 3月
 : USMLE Step2-CK Pass<br>
 
-2024 2月
+2024年 2月
 : TOEIC 985<br>
 
-2023 8月
+2023年 8月
 : TOEFL iBT 115<br>
 
-2023 3月
+2023年 3月
 : USMLE Step1 Pass<br>
 
-2021 12月
+2021年 12月
 : 応用情報技術者<br>
 
-2017 3月
+2017年 3月
 : 英検1級<br>
 
 ## 受賞歴・表彰歴
-2024 12月
+2024年 12月
 : 有馬聡記念フェローシップ受賞<br>
 東京大学医学部医学科
 
-2024 1月
+2024年 1月
 : 臨床実習学部長賞受賞<br>
 東京大学医学部医学科
 
-2018 8月
+2018年 8月
 : アジアサイエンスキャンプ2018・日本代表
 
 
 ## 研究経験
-2021 4月 - 現在
+2021年 4月 - 現在
 : 学生研究員・ERATO上田生体時間プロジェクト研究協力員<br>
 東京大学医学部・システムズ薬理学教室<br>
 Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Koji L. Ode](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins>
 
-2024 6月 - 現在
+2024年 6月 - 現在
 : 研究インターン<br>
 マンチェスター大学・Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health<br>
 Advisor: <ins>[Mino Belle](https://research.manchester.ac.uk/en/persons/mino-belle)</ins>
 
-2024 5月 - 2024 6月
+2024年 5月 - 2024年 6月
 : 研究インターン<br>
 Johns Hopkins大学医学部・Schizophrenia Center<br>
 Advisor: <ins>[澤 明](https://profiles.hopkinsmedicine.org/provider/akira-sawa/2777051)</ins><br>
 Report: <ins>[活動報告書](https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrfiles.com/ugd/d1a05d_dd16de7a20c44d74922b167d6204b164.pdf)</ins>
 
-2024 4月 - 2024 5月
+2024年 4月 - 2024年 5月
 : 研究インターン<br>
 東京大学医学部・システム遺伝学教室<br>
 Advisor: <ins>[岡田 随象](https://genome.m.u-tokyo.ac.jp/tools.html)</ins>
 
-2023 1月 - 2023 2月
+2023年 1月 - 2023年 2月
 : 研究インターン<br>
 東京大学医学部・神経生理学教室<br>
 Advisor: <ins>[狩野 方伸](https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Members_j.html)</ins>
 
-2022 2月 - 2022 3月
+2022年 2月 - 2022年 3月
 : 研究インターン<br>
 東京大学医学部・システム生理学教室<br>
 Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins>
 
 
 ## 臨床経験
-2024 5月 - 2024 6月
+2024年 5月 - 2024 6月
 : Johns Hopkins大学病院・精神科でのエレクティブクラークシップ<br>
 
-2023 1月 - 2024 11月
+2023年 1月 - 2024 11月
 : 東大病院でのクリニカルクラークシップ<br>
 
 
 ## 学会参加
-2024 11月 
+2024年 11月 
 : 第31回日本時間生物学会学術大会 ポスター発表<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
-2024 9月 
+2024年 9月 
 : Poster presentation at ICMMA2024 International Conference on “Self-organization in Life and Matter”<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
 
-2023 12月 
+2023年 12月 
 : 第30回日本時間生物学会学術大会・日本睡眠学会第45回定期学術大会 ポスター発表<br>
 : A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
 
-2022 12月
+2022年 12月
 : 第29回 日本時間生物学会学術大会 ポスター発表<br>
 : A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
 
 
 ## 奨学金
-2024年12月 - 2024年12月
+2024年 12月 - 2024年 12月
 : 有馬聡記念フェローシップ 受賞
 
-2024年6月 - 2024年7月
+2024年 6月 - 2024年 7月
 : MDプログラム (留学支援奨学金)
 
-2024年5月 - 2024年6月
+2024年 5月 - 2024年 6月
 : 大坪修・鉄門フェローシップ (留学支援奨学金)
 
-2024年5月 - 2024年6月
+2024年 5月 - 2024年 6月
 : 安川信子医学奨励基金 (留学支援奨学金) 
 
 
 ## 専門的貢献活動 (Professional services)
-2022 May
+2022年 5月
 : パネルディスカッション "Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine" にパネラーとして参加<br>
 Japanese Medical Society of America, 東京大学医学部
 
-2022 Mar
+2022年 3月
 : パネルディスカッション "Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution." にパネラーとして参加<br>
 Japanese Medical Society of America, 東京大学医学部
 
@@ -158,75 +158,75 @@ Japanese Medical Society of America, 東京大学医学部
 4歳の時からピアノを続けてきました。現在はアカデミアのことをやりつつ、趣味としてピアノを続け、時々舞台で演奏する機会を頂いています。医学部生として、音楽を通じて医療の道に貢献するためにできることは何かを考えています。
 
 ## ピアノの受賞歴
-2021
+2021年
 : 第15回セシリア国際音楽コンクール ピアノ部門大学生Ⅰの部本選 最高位
 <br>
 
-2021
+2021年
 : 第22回ショパン国際ピアノコンクールin Asia ショパニストB部門アジア大会 金賞
 <br>
 
-2017
+2017年
 : 第18回ショパン国際ピアノコンクールin Asia 高校生部門アジア大会 銀賞
 <br>
 
-2016
+2016年
 : 第17回大阪国際音楽コンクールのアマチュア部門スーペリアコース 第2位
 <br>
 
-2016
+2016年
 : 第17回ショパン国際ピアノコンクールin Asia 中学生部門アジア大会 銀賞
 <br>
 
-2015
+2015年
 : 第9回横浜国際音楽コンクール　ピアノ部門中学生の部 審査員特別賞
 <br>
 
-2014
+2014年
 : 第8回横浜国際音楽コンクール ピアノ部門中学生の部 第4位
 <br>
 
-2013
+2013年
 : 第23回日本クラシック音楽コンクールピアノ部門中学男子の部 第5位
 <br>
 
-2009
+2009年
 : 第10回ショパン国際ピアノコンクールin Asia 小学校1, 2年生部門アジア大会 金賞
 <br>
 
-2008
+2008年
 : 2008年度ピティナ・ピアノコンペティションB級 金賞
 <br>
 
 
 ## 演奏活動
-2025
+2025年
 : ルーテル市ヶ谷ホールでのチャリティーコンサート (がん患者さん・ご家族の心理面でのサポートを行う「マギーズ東京」を支援するチャリティーコンサート)
 <br>
 
-2024
+2024年
 : 東大病院でのクリスマス・コンサート 
 <br>
 
-2017
+2017年
 : チャイルドエイド チャリティーコンサート
 <br>
 
-2017
+2017年
 : 介護施設でのコンサート (グランケアあざみ野)
 <br>
 
 
 ## マスターコース
-2023
+2023年
 : Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Bronisława Kawalla-Ryszka)
 <br>
 
-2019
+2019年
 : Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Jerzy Romaniuk)
 <br>
 
-2016
+2016年
 : Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Bronisława Kawalla-Ryszka)
 <br>
 
