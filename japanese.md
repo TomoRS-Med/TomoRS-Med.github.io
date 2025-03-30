@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 自己紹介
+title: 佐藤智英
 share-title: Tomohide R. Sato - Japanese
 ---
 
