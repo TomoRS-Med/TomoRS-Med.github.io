@@ -4,6 +4,16 @@ title: Profile
 share-title: Tomohide R. Sato - Profile
 ---
 
+## Education
+2025 Apr-
+The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology (PhD candidate)
+Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A
+Residency doctor at Kurume University Hospital
+
+2019 - 2025
+: M.D.<br>
+Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+
 ## Research Experience
 2025 Apr - Present
 : PhD candidate・ERATO UEDA Biological Timing Project student research assistant<br>
@@ -42,16 +52,6 @@ Advisor: <ins>[Masanobu Kano](https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Memb
 Department of System Physiology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
 Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 
-
-## Education
-2025 Apr-
-The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology (PhD candidate)
-Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A
-Residency doctor at Kurume University Hospital
-
-2019 - 2025
-: M.D.<br>
-Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Clinical activities
 2024 May - 2024.Jun
