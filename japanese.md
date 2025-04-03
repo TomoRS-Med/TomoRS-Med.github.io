@@ -3,20 +3,6 @@ layout: page
 title: 佐藤智英 M.D.
 share-title: Tomohide R. Sato - Japanese
 ---
-
-## 研究
-睡眠の生理学に関する研究に従事してきました。神経活動を記述する数理モデル・電気生理学・睡眠表現型解析を組み合わせることで、睡眠覚醒を制御する複雑な経路をシステムとして理解することを目指しています。<br>
-Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
-
-## 論文
-
-**Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
-<ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
-***iScience*** (2025). 
-<ins>[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432)</ins> / <ins>[Press Release (Japanese)](https://www.u-tokyo.ac.jp/content/400255946.pdf)</ins> / <ins>[Code](https://github.com/TomoRS-Med/Na_paper)</ins><br>
-&dagger;: correspondence
-
-
 ## 経歴
 2025年 4月
 : 東京大学大学院医学系研究科機能生物学専攻システムズ薬理学教室医学博士課程1年<br>久留米大学分子生命科学研究所個体システム生物学研究部門ドクトラルフェローA<br>
@@ -33,6 +19,18 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 2019年 3月
 : 聖光学院高等学校 卒業
+
+## 研究
+睡眠の生理学に関する研究に従事してきました。神経活動を記述する数理モデル・電気生理学・睡眠表現型解析を組み合わせることで、睡眠覚醒を制御する複雑な経路をシステムとして理解することを目指しています。<br>
+Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
+
+## 論文
+
+**Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
+<ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
+***iScience*** (2025). 
+<ins>[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432)</ins> / <ins>[Press Release (Japanese)](https://www.u-tokyo.ac.jp/content/400255946.pdf)</ins> / <ins>[Code](https://github.com/TomoRS-Med/Na_paper)</ins><br>
+&dagger;: correspondence
 
 ## 資格
 2025年 3月
