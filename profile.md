@@ -38,6 +38,11 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 
 
 ## Education
+2025 Apr-
+The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology (PhD candidate)
+Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A
+Residency doctor at Kurume University Hospital
+
 2019 - 2025
 : M.D.<br>
 Faculty of Medicine, The University of Tokyo, Tokyo, Japan
