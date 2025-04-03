@@ -6,8 +6,8 @@ share-title: Tomohide R. Sato - Profile
 
 ## Education
 2025 Apr-
-The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology (PhD candidate)
-Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A
+The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology (PhD candidate)<br>
+Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A<br>
 Residency doctor at Kurume University Hospital
 
 2019 - 2025
