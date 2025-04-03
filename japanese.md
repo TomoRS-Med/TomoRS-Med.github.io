@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 佐藤智英
+title: 佐藤智英 M.D.
 share-title: Tomohide R. Sato - Japanese
 ---
 
@@ -19,7 +19,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 ## 経歴
 2025年 4月
-: 東京大学大学院医学系研究科機能生物学専攻システムズ薬理学教室医学博士課程1年・久留米大学分子生命科学研究所個体システム生物学研究部門ドクトラルフェローA<br>
+: 東京大学大学院医学系研究科機能生物学専攻システムズ薬理学教室医学博士課程1年<br>久留米大学分子生命科学研究所個体システム生物学研究部門ドクトラルフェローA<br>
 久留米大学病院臨床研修医
 
 2025年 3月
