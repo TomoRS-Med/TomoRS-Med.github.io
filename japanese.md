@@ -35,7 +35,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 **佐藤 智英<sup></sup>**, 岸 哲史<sup></sup>, 大出 晃士<sup></sup>, 上田 泰己<sup>&dagger;</sup>.
 <ins>睡眠医療関連検査</ins>
-**医学書院　検査と医学 8月増刊号** (2025). 
+**医学書院 検査と医学 8月増刊号** (2025). 
 <ins>[Link](https://www.igaku-shoin.co.jp/journal/detail/41803)</ins><br>
 &dagger;: correspondence
 
