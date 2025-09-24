@@ -111,6 +111,10 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 
 ## 臨床経験
+
+2025年 4月 -
+: 久留米大学病院　臨床研修医<br>
+
 2024年 5月 - 2024 6月
 : Johns Hopkins大学病院・精神科でのエレクティブクラークシップ<br>
 
@@ -119,6 +123,11 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 
 ## 学会参加
+2025年 8月 
+: 第25回日本内分泌学会 九州支部学術集会　若手奨励賞選考セッション<br>
+: CGMにて周術期血糖変動解析を行なったインスリノーマの一例<br>
+: Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma
+
 2024年 11月 
 : 第31回日本時間生物学会学術大会 ポスター発表<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
