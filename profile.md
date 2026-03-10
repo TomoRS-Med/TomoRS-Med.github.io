@@ -116,6 +116,9 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 : Eiken 1st grade
 
 ## Fellowships & Grants
+2025 Apr - 2026 Mar
+: Scholarship for Direct Entry into the Basic Science Doctoral Program ($6600)
+
 2024 Dec - 2024 Dec
 : Scholarship for research activities, Satoshi Arima Memorial Fellowship ($650)
 
