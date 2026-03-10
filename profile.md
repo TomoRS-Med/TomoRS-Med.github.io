@@ -12,7 +12,7 @@ share-title: Tomohide R. Sato - Profile
 ・Residency doctor at Kurume University Hospital
 
 2019 - 2025
-: M.D.<br>
+: <br>
 ・Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Research Experience
