@@ -13,7 +13,7 @@ share-title: Tomohide R. Sato - Profile
 
 2019 - 2025
 : M.D.<br>
-Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+・Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Research Experience
 2025 Apr - Present
