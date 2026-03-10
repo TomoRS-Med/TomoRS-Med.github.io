@@ -18,7 +18,7 @@ share-title: Tomohide R. Sato - Publications
 &dagger;: correspondence<br>
 
 **Sato TR<sup></sup>**, Kishi A<sup></sup>, Ode KL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
-<ins>Sleep-related examinations</ins>
+<ins>Sleep-related examinations. </ins>
 **August Special Issue of Kensa to Igaku (published by Igaku-Shoin)** (2025). 
 <ins>[Link](https://www.igaku-shoin.co.jp/journal/detail/41803)</ins><br>
 &dagger;: correspondence
