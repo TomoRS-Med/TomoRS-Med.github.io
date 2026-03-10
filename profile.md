@@ -61,6 +61,18 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 : Clinical clerkship at The University of Tokyo Hospital<br>
 
 ## Academic conferences
+2026 Mar 
+: World Congress of Nephrology<br>
+: Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights
+
+2026 Jan
+: 18th Annual Meeting of the Fukuoka Society of Medicine<br>
+: Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma
+
+2025 Aug 
+: 25th Young Investigator Award Selection Session, Kyushu Regional Meeting of the Japan Endocrine Society<br>
+: Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma
+
 2024 Nov 
 : Poster presentation at 31th Annual Meeting, Japanese Soc. Chronobiology 2024<br>
 : A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR.<br>
