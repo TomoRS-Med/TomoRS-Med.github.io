@@ -5,7 +5,7 @@ share-title: Tomohide R. Sato - Profile
 ---
 
 ## Piano Experience
-Aside from being a medical student, I am a professional pianist in Japan. At the age of 4, I started practicing the piano, and piano is my everything: I owe my identity to piano music because it gives me discipline and grace, it embodies my emotions, it's breathtaking in its beauty, and, most importantly, it expresses what cannot be put into words. 
+Aside from being a psychiatrist, I am a professional pianist in Japan. At the age of 4, I started practicing the piano, and piano is my everything: I owe my identity to piano music because it gives me discipline and grace, it embodies my emotions, it's breathtaking in its beauty, and, most importantly, it expresses what cannot be put into words. 
 
 ## Awards
 2008
