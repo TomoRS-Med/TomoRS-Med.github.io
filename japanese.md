@@ -8,7 +8,6 @@ share-title: Tomohide R. Sato - Japanese
 : 久留米大学病院臨床研修医<br>
 東京大学大学院医学系研究科機能生物学専攻システムズ薬理学教室医学博士課程1年<br>久留米大学分子生命科学研究所個体システム生物学研究部門ドクトラルフェローA<br>
 
-
 2025年 3月
 : 東京大学医学部医学科 卒業
 
@@ -124,7 +123,7 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 ## 学会参加
 2026年 3月 
-: World COngress of Nephrology<br>
+: World Congress of Nephrology<br>
 : シクロスポリン抵抗性ネフローゼ症候群に対するLDLアフェレシスの有効例：Mechanistic insightを伴う症例報告
 : Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights
 
