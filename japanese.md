@@ -27,7 +27,6 @@ share-title: Tomohide R. Sato - Japanese
 Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 ## 論文
-
 **Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
 <ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
 ***iScience*** (2025). 
@@ -39,81 +38,6 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 **医学書院 検査と医学 8月増刊号** (2025). 
 <ins>[Link](https://www.igaku-shoin.co.jp/journal/detail/41803)</ins><br>
 &dagger;: correspondence
-
-## 資格
-2025年 3月
-: 医師国家試験 合格 <br>
-2024年 4月
-: OET Medicine Pass (ECFMG Certificate基準) <br>
-2024年 3月
-: USMLE Step2-CK Pass<br>
-2024年 2月
-: TOEIC 985<br>
-2023年 8月
-: TOEFL iBT 115<br>
-2023年 3月
-: USMLE Step1 Pass<br>
-2021年 12月
-: 応用情報技術者<br>
-2017年 3月
-: 英検1級<br>
-
-## 受賞歴・表彰歴
-2024年 12月
-: 有馬聡記念フェローシップ受賞<br>
-東京大学医学部医学科
-
-2024年 1月
-: 臨床実習学部長賞受賞<br>
-東京大学医学部医学科
-
-2018年 8月
-: アジアサイエンスキャンプ2018・日本代表
-
-## 研究経験
-2021年 4月 - 現在
-: 学生研究員・ERATO上田生体時間プロジェクト研究協力員<br>
-東京大学医学部・システムズ薬理学教室<br>
-Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Koji L. Ode](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins>
-
-2024年 6月 - 現在
-: 研究インターン<br>
-マンチェスター大学・Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health<br>
-Advisor: <ins>[Mino Belle](https://research.manchester.ac.uk/en/persons/mino-belle)</ins>
-
-2024年 5月 - 2024年 6月
-: 研究インターン<br>
-Johns Hopkins大学医学部・Schizophrenia Center<br>
-Advisor: <ins>[澤 明](https://profiles.hopkinsmedicine.org/provider/akira-sawa/2777051)</ins><br>
-Report: <ins>[活動報告書](https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrfiles.com/ugd/d1a05d_dd16de7a20c44d74922b167d6204b164.pdf)</ins>
-
-2024年 4月 - 2024年 5月
-: 研究インターン<br>
-東京大学医学部・システム遺伝学教室<br>
-Advisor: <ins>[岡田 随象](https://genome.m.u-tokyo.ac.jp/tools.html)</ins>
-
-2023年 1月 - 2023年 2月
-: 研究インターン<br>
-東京大学医学部・神経生理学教室<br>
-Advisor: <ins>[狩野 方伸](https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Members_j.html)</ins>
-
-2022年 2月 - 2022年 3月
-: 研究インターン<br>
-東京大学医学部・システム生理学教室<br>
-Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins>
-
-
-## 臨床経験
-
-2025年 4月 -
-: 久留米大学病院　臨床研修医<br>
-
-2024年 5月 - 2024 6月
-: Johns Hopkins大学病院・精神科でのエレクティブクラークシップ<br>
-
-2023年 1月 - 2024 11月
-: 東大病院でのクリニカルクラークシップ<br>
-
 
 ## 学会参加
 2026年 3月 
@@ -146,6 +70,78 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 2022年 12月
 : 第29回 日本時間生物学会学術大会 ポスター発表<br>
 : A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR.<br>
+
+## 資格
+2025年 3月
+: 医師国家試験 合格 <br>
+2024年 4月
+: OET Medicine Pass (ECFMG Certificate基準) <br>
+2024年 3月
+: USMLE Step2-CK Pass<br>
+2024年 2月
+: TOEIC 985<br>
+2023年 8月
+: TOEFL iBT 115<br>
+2023年 3月
+: USMLE Step1 Pass<br>
+2021年 12月
+: 応用情報技術者<br>
+2017年 3月
+: 英検1級<br>
+
+## 受賞歴・表彰歴
+2024年 12月
+: 有馬聡記念フェローシップ受賞<br>
+東京大学医学部医学科
+
+2024年 1月
+: 臨床実習学部長賞受賞<br>
+東京大学医学部医学科
+
+2018年 8月
+: アジアサイエンスキャンプ2018・日本代表
+
+## 臨床経験
+2025年 4月 -
+: 久留米大学病院　臨床研修医<br>
+
+2024年 5月 - 2024 6月
+: Johns Hopkins大学病院・精神科でのエレクティブクラークシップ<br>
+
+2023年 1月 - 2024 11月
+: 東大病院でのクリニカルクラークシップ<br>
+
+## 研究経験
+2021年 4月 - 現在
+: 学生研究員・ERATO上田生体時間プロジェクト研究協力員<br>
+東京大学医学部・システムズ薬理学教室<br>
+Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Koji L. Ode](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins>
+
+2024年 6月 - 現在
+: 研究インターン<br>
+マンチェスター大学・Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health<br>
+Advisor: <ins>[Mino Belle](https://research.manchester.ac.uk/en/persons/mino-belle)</ins>
+
+2024年 5月 - 2024年 6月
+: 研究インターン<br>
+Johns Hopkins大学医学部・Schizophrenia Center<br>
+Advisor: <ins>[澤 明](https://profiles.hopkinsmedicine.org/provider/akira-sawa/2777051)</ins><br>
+Report: <ins>[活動報告書](https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrfiles.com/ugd/d1a05d_dd16de7a20c44d74922b167d6204b164.pdf)</ins>
+
+2024年 4月 - 2024年 5月
+: 研究インターン<br>
+東京大学医学部・システム遺伝学教室<br>
+Advisor: <ins>[岡田 随象](https://genome.m.u-tokyo.ac.jp/tools.html)</ins>
+
+2023年 1月 - 2023年 2月
+: 研究インターン<br>
+東京大学医学部・神経生理学教室<br>
+Advisor: <ins>[狩野 方伸](https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Members_j.html)</ins>
+
+2022年 2月 - 2022年 3月
+: 研究インターン<br>
+東京大学医学部・システム生理学教室<br>
+Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins>
 
 
 ## 奨学金
