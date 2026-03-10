@@ -9,11 +9,11 @@ share-title: Tomohide R. Sato - Profile
 ：<br>
 ・The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Pharmacology (PhD candidate)<br>
 ・Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A<br>
-・Residency doctor at Kurume University Hospital
+・Residency doctor at Kurume University Hospital<br>
 
 2019 - 2025
 : <br>
-・Faculty of Medicine, The University of Tokyo, Tokyo, Japan
+・Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>
 
 ## Research Experience
 2025 Apr - Present
