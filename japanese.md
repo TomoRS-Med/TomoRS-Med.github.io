@@ -43,25 +43,18 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 ## 資格
 2025年 3月
 : 医師国家試験 合格 <br>
-
 2024年 4月
 : OET Medicine Pass (ECFMG Certificate基準) <br>
-
 2024年 3月
 : USMLE Step2-CK Pass<br>
-
 2024年 2月
 : TOEIC 985<br>
-
 2023年 8月
 : TOEFL iBT 115<br>
-
 2023年 3月
 : USMLE Step1 Pass<br>
-
 2021年 12月
 : 応用情報技術者<br>
-
 2017年 3月
 : 英検1級<br>
 
@@ -76,7 +69,6 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 2018年 8月
 : アジアサイエンスキャンプ2018・日本代表
-
 
 ## 研究経験
 2021年 4月 - 現在
