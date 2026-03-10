@@ -43,7 +43,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 2026年 3月 
 : World Congress of Nephrology<br>
 : シクロスポリン抵抗性ネフローゼ症候群に対するLDLアフェレシスの有効例：Mechanistic insightを伴う症例報告
-: Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights
+: Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights (WCN26-AB-3029)
 
 2026年 1月 
 : 第18回福岡県医学会総会<br>
