@@ -64,7 +64,7 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 ## Academic conferences
 2026 Mar 
 : World Congress of Nephrology<br>
-: Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights
+: Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights (WCN26-AB-3029)
 
 2026 Jan
 : 18th Annual Meeting of the Fukuoka Society of Medicine<br>
