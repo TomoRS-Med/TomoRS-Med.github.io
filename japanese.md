@@ -123,6 +123,11 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 
 ## 学会参加
+2026年 3月 
+: World COngress of Nephrology<br>
+: シクロスポリン抵抗性ネフローゼ症候群に対するLDLアフェレシスの有効例：Mechanistic insightを伴う症例報告
+: Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights
+
 2026年 1月 
 : 第18回福岡県医学会総会<br>
 : CGMにて周術期血糖変動解析を行なったインスリノーマの一例<br>
