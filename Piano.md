@@ -65,6 +65,10 @@ Aside from being a psychiatrist, I am a professional pianist in Japan. At the ag
 : Charity Concert at LUTHERAN ICHIGAYA HALL (Donation to Maggie's Tokyo, an organization providing psychological/mental support to patients with cancer)
 <br>
 
+2026
+: Ceremonial Piano Performance at the Retirement Party of Professor Hiroaki Ida, Kurume University School of Medicine
+<br>
+
 ## Master courses
 2016
 : Master Courses at the Fryderyk Chopin University of Music in Poland, awarded the diploma (Prof. Bronisława Kawalla-Ryszka)
