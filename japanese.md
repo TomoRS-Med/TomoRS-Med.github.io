@@ -26,6 +26,12 @@ share-title: Tomohide R. Sato - Japanese
 Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 ## 論文
+**Sato TR<sup></sup>**, Chinami Hori<sup></sup>, Yuusei Wada<sup></sup>, Nakano Kaoru<sup></sup>, Gou Kodama<sup></sup>, Kensei Taguchi<sup></sup>, Ryo Shibata<sup></sup>, Kei Fukami<sup>&dagger;</sup>.
+<ins>SUCCESSFUL USE OF LDL APHERESIS IN CYCLOSPORINE-RESISTANT NEPHROTIC SYNDROME: A CASE REPORT WITH MECHANISTIC INSIGHTS</ins>
+**Kidney International Reports** (2026). 
+<ins>[Link](https://www.kireports.org/article/S2468-0249(26)00543-7/fulltext)</ins><br>
+&dagger;: correspondence
+
 **Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
 <ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
 ***iScience*** (2025). 
