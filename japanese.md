@@ -27,7 +27,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 ## 論文
 **Sato TR<sup></sup>**, Chinami Hori<sup></sup>, Yuusei Wada<sup></sup>, Nakano Kaoru<sup></sup>, Gou Kodama<sup></sup>, Kensei Taguchi<sup></sup>, Ryo Shibata<sup></sup>, Kei Fukami<sup>&dagger;</sup>.
-<ins>SUCCESSFUL USE OF LDL APHERESIS IN CYCLOSPORINE-RESISTANT NEPHROTIC SYNDROME: A CASE REPORT WITH MECHANISTIC INSIGHTS</ins>
+<ins>SUCCESSFUL USE OF LDL APHERESIS IN CYCLOSPORINE-RESISTANT NEPHROTIC SYNDROME: A CASE REPORT WITH MECHANISTIC INSIGHTS.</ins>
 **Kidney International Reports** (2026). 
 <ins>[Link](https://www.kireports.org/article/S2468-0249(26)00543-7/fulltext)</ins><br>
 &dagger;: correspondence
@@ -39,7 +39,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 &dagger;: correspondence
 
 **佐藤 智英<sup></sup>**, 岸 哲史<sup></sup>, 大出 晃士<sup></sup>, 上田 泰己<sup>&dagger;</sup>.
-<ins>睡眠医療関連検査</ins>
+<ins>睡眠医療関連検査.</ins>
 **医学書院 検査と技術 8月増刊号** (2025). 
 <ins>[Link](https://www.igaku-shoin.co.jp/journal/detail/41803)</ins><br>
 &dagger;: correspondence
