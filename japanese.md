@@ -52,7 +52,7 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 <ins>[Link](https://www.igaku-shoin.co.jp/journal/detail/41803)</ins><br>
 &dagger;: correspondence
 
-## 学会参加
+## 学会発表
 2026年 3月 
 : World Congress of Nephrology<br>
 : シクロスポリン抵抗性ネフローゼ症候群に対するLDLアフェレシスの有効例：Mechanistic insightを伴う症例報告
