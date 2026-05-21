@@ -175,12 +175,16 @@ Advisor: <ins>[山本 希美子](https://square.umin.ac.jp/bme/Member.html)</ins
 
 
 ## 専門的貢献活動 (Professional services)
+2026年 7月
+: 福岡国際音楽大学「ビジネス最前線」（オムニバス講義）登壇<br>
+福岡国際音楽大学
+
 2022年 5月
-: パネルディスカッション "Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine" にパネラーとして参加<br>
+: パネルディスカッション "Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine" パネラーとして参加<br>
 Japanese Medical Society of America, 東京大学医学部
 
 2022年 3月
-: パネルディスカッション "Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution." にパネラーとして参加<br>
+: パネルディスカッション "Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution." パネラーとして参加<br>
 Japanese Medical Society of America, 東京大学医学部
 
 
