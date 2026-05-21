@@ -146,6 +146,10 @@ Faculty of Medicine, The University of Tokyo, Tokyo, Japan
 : Asian Science Camp Japan Representative
 
 ## Professional services
+2026 Jul
+: Guest lecture at the Fukuoka International College of Music “Frontiers of Business” Lecture Series<br>
+Fukuoka International College of Music
+
 2022 May
 : Panelist at the panel discussion "Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine"<br>
 Japanese Medical Society of America, Faculty of Medicine, The University of Tokyo
