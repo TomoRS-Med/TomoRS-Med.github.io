@@ -6,7 +6,7 @@ share-description: Explore the portfolio of Tomohide R. Sato, an undergraduate s
 ---
 
 <img src="/assets/img/IMG_2824.jpeg" width="200" align="right">
-My name is **Tomohide R. Sato**, a physician-scientist working on the mystery of sleep homeostasis. Currently I am a graduate student at the University of Tokyo in the group of Prof. Hiroki R. Ueda. <br>
+My name is **Tomohide R. Sato**, a physician-scientist investigating emergent dynamics across biological systems, from sleep and brain states to disease physiology. Currently I am a residency doctor at Kurume University Hospital, Japan and a graduate student at the University of Tokyo in the group of Prof. Hiroki R. Ueda. <br>
 <br>
 
 Email:
