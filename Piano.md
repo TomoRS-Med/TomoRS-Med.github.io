@@ -66,7 +66,8 @@ Aside from being a psychiatrist, I am a professional pianist in Japan. At the ag
 <br>
 
 2026
-: Ceremonial Piano Performance at the Retirement Party of Professor Hiroaki Ida, Kurume University School of Medicine
+: Ceremonial Piano Performance at the Retirement Party of Professor Hiroaki Ida, Kurume University School of Medicine<br>
+: Ceremonial Piano Performance at the Annual Reunion Party of Department of Radiology, Kurume University School of Medicine
 <br>
 
 ## Master courses
