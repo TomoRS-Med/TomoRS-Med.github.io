@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From Brain Whisper to Human Experience
+title: 音楽×医学・医療
 ---
 
 <h2 class="lecture-chapter">Chapter 1　状態を、時間の中で読む</h2>
