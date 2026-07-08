@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 音楽×医学・医療
+title: 音楽×医学講演
 ---
 
 <h2 class="lecture-chapter">Chapter 1　状態を、時間の中で読む</h2>
