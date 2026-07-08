@@ -658,16 +658,4 @@ title: From Brain Whisper to Human Experience
   </figure>
 </section>
 
-<section class="lecture-slide" id="slide-33">
-  <div class="slide-copy">
-    <p class="slide-no">Slide 33</p>
-    <h2>Thank you for listening!</h2>
-    <p>本日はありがとうございました。</p>
-  </div>
-  <figure class="slide-image">
-    <img src="/assets/img/33a.jpeg" alt="Slide 33: Thank you for listening!">
-    <figcaption>Slide 33</figcaption>
-  </figure>
-</section>
-
 </div>
