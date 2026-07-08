@@ -8,7 +8,7 @@ title: From Brain Whisper to Human Experience
 <section class="lecture-slide" id="slide-1">
   <div class="slide-copy">
     <h2>From Brain Whisper to Human Experience</h2>
-    <p>佐藤智英です。このページでは、私自身の人生と音楽の関わり、そして医学研究者・医師としての仕事、今後のビジョンについてお話しします。</p>
+    <p>このページでは、私自身の人生と音楽の関わり、そして医学研究者・医師としての仕事、今後のビジョンについてお話しします。</p>
     <p>ただし、単に「医師が音楽を続けてきました」という話をしたいわけではありません。私がここで考えたいのは、小さな変化が、どのように大きな軌跡を描き、人間の経験になっていくのかということです。</p>
     <p>医学では、患者さんの症状や経過を見ます。研究では、神経細胞や脳状態の変化を見ます。音楽では、一つ一つの音が時間の中で意味を持ちます。</p>
     <p>このページでは、そうした医学・研究・音楽をつなぐ視点から、From Brain Whisper to Human Experience というテーマで考えていきます。</p>
@@ -518,16 +518,6 @@ title: From Brain Whisper to Human Experience
   </div>
   <figure class="slide-image">
     <img src="/assets/img/32a.jpeg" alt="世界と関わるための力に">
-  </figure>
-</section>
-
-<section class="lecture-slide" id="slide-33">
-  <div class="slide-copy">
-    <h2>Thank you for listening!</h2>
-    <p>本日はありがとうございました。</p>
-  </div>
-  <figure class="slide-image">
-    <img src="/assets/img/33a.jpeg" alt="Thank you for listening!">
   </figure>
 </section>
 
