@@ -520,5 +520,3 @@ title: 音楽×医学講演
     <img src="/assets/img/32a.jpeg" alt="世界と関わるための力に">
   </figure>
 </section>
-
-</div>
