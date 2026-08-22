@@ -7,7 +7,7 @@ share-title: Tomohide R. Sato - Profile
 ## Education
 2025 Apr - Present
 ：<br>
-・The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Pharmacology (PhD candidate)<br>
+・The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Pharmacology (PhD student)<br>
 ・Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A<br>
 ・Residency doctor at Kurume University Hospital<br>
 
@@ -17,7 +17,7 @@ share-title: Tomohide R. Sato - Profile
 
 ## Research Experience
 2025 Apr - Present
-: PhD candidate・ERATO UEDA Biological Timing Project student research assistant<br>
+: PhD student・ERATO UEDA Biological Timing Project student research assistant<br>
 The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology<br>
 Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A<br>
 Advisor: <ins>[Hiroki R. Ueda](https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html)</ins> & <ins>[Rikuhiro G. Yamada](https://lifescience.kurume-u.ac.jp/polymer-chemistry/about/)</ins>& <ins>[Hiroshi Fukishima](https://lifescience.kurume-u.ac.jp/polymer-chemistry/about/)</ins>
