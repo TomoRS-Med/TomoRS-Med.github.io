@@ -61,6 +61,11 @@ Researchmap: <ins>[researchmap](https://researchmap.jp/TomoRS)</ins><br>
 
 ## 学会発表
 2026年 9月 
+: 第24回日本乳癌学会九州地方会<br>
+: 乳癌術後26年を経て腋窩腫瘍を認め,乳癌再発と鑑別を要した一例<br>
+: Case Report: An Axillary Tumor Detected 26 Years After Breast Cancer Surgery, Requiring Differentiation from Breast Cancer Recurrence
+
+2026年 9月 
 : 第8回久留米大学サージカルフォーラム<br>
 : 乳癌術後再発治療中に肺腫瘍血栓性微小血管症を来した1例<br>
 : Case Report: A Case of Pulmonary Tumor Thrombotic Microangiopathy During Treatment for Postoperative Recurrence of Breast Cancer
