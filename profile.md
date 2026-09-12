@@ -62,6 +62,14 @@ Advisor: <ins>[Kimiko Yamamoto](https://square.umin.ac.jp/bme/Member.html)</ins>
 : Clinical clerkship at The University of Tokyo Hospital<br>
 
 ## Academic conferences
+2026 Sep
+: 24th Kyushu Regional Meeting of the Japanese Breast Cancer Society<br>
+: Case Report: An Axillary Tumor Detected 26 Years After Breast Cancer Surgery, Requiring Differentiation from Breast Cancer Recurrence
+
+2026 Sep
+: 8th Kurume Surgical Forum<br>
+: Case Report: A Case of Pulmonary Tumor Thrombotic Microangiopathy During Treatment for Postoperative Recurrence of Breast Cancer
+
 2026 Mar 
 : World Congress of Nephrology<br>
 : Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights (WCN26-AB-3029)
