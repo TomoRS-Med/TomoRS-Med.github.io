@@ -19,7 +19,7 @@ permalink: /lecture_brainmusic_en/
     <p>At several points, I use clinical examples. These are based on experiences I have encountered directly or learned about through others, but details have been modified to protect patient privacy.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/1a.jpeg" alt="From Brain Whisper to Human Experience">
+    <img src="/assets/img/1a_en.jpeg" alt="From Brain Whisper to Human Experience">
   </figure>
 </section>
 
@@ -35,7 +35,7 @@ permalink: /lecture_brainmusic_en/
     <p>A state, then, is not merely something that exists at one moment. It is a trace of transition. Using this perspective, I would like to ask how small changes in neurons become brain states, music, and ultimately human experience.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/2a.jpeg" alt="A State Is a Trace of Transition">
+    <img src="/assets/img/2a_en.jpeg" alt="A State Is a Trace of Transition">
   </figure>
 </section>
 
@@ -48,7 +48,7 @@ permalink: /lecture_brainmusic_en/
     <p>This lecture follows that sequence as a map: from Neuron to Brain, from Brain to Music, and from Music to Human Experience. I will also use this map to reflect on my own life.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/3a.jpeg" alt="How Small Changes Become Experience">
+    <img src="/assets/img/3a_en.jpeg" alt="How Small Changes Become Experience">
   </figure>
 </section>
 
@@ -63,7 +63,7 @@ permalink: /lecture_brainmusic_en/
     <p>Medicine, research, and music are therefore all practices of listening for change through time. Throughout this lecture, I will move among these three forms of listening.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/4a.jpeg" alt="Listening Is a Fundamental Way of Understanding the World">
+    <img src="/assets/img/4a_en.jpeg" alt="Listening Is a Fundamental Way of Understanding the World">
   </figure>
 </section>
 
@@ -78,7 +78,7 @@ permalink: /lecture_brainmusic_en/
     <p>With that in mind, let us begin with what I have encountered in medicine and research: the story of Brain Whisper.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/5a.jpeg" alt="This Is Not Simply a Story About a Doctor Who Continued Music">
+    <img src="/assets/img/5a_en.jpeg" alt="This Is Not Simply a Story About a Doctor Who Continued Music">
   </figure>
 </section>
 
@@ -90,7 +90,7 @@ permalink: /lecture_brainmusic_en/
     <p>Let me briefly introduce myself. I graduated from the Faculty of Medicine at the University of Tokyo and now work as a physician at Kurume University Hospital while studying sleep and neural activity in the University of Tokyo’s graduate program. My research asks how microscopic phenomena—brain activity and the movement of small particles such as sodium and calcium—give rise to brain states such as sleep and wakefulness. At the same time, I have played the piano since childhood, with a particular focus on Chopin. Today I would like to describe how medicine, research, and music have become connected within me.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/6a.jpeg" alt="Medicine, Research, and Music as Parallel Streams of Time">
+    <img src="/assets/img/6a_en.jpeg" alt="Medicine, Research, and Music as Parallel Streams of Time">
   </figure>
 </section>
 
@@ -100,7 +100,7 @@ permalink: /lecture_brainmusic_en/
     <p>One reason I was drawn to medicine is that a human being cannot be explained at only one level. We are molecules, cells, organs, minds, and social beings. In clinical medicine, all of these levels appear simultaneously within a single patient.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/7a.jpeg" alt="The Multiple Levels of Medicine and Research">
+    <img src="/assets/img/7a_en.jpeg" alt="The Multiple Levels of Medicine and Research">
   </figure>
 </section>
 
@@ -110,7 +110,7 @@ permalink: /lecture_brainmusic_en/
     <p>Patients do not enter the clinic exactly as textbooks describe them. Symptoms arise not only from disease itself, but within the contexts of daily life, sleep, work, family, emotion, and the social environment. Even with the same diagnosis, each patient follows a different course. The same medication may work well for one person and less well for another. Many of these differences remain questions for future medical research, but if we want to choose the best possible treatment for each patient, we must attend closely to the particular pattern of that patient’s condition.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/8a.jpeg" alt="The Diversity of Clinical Trajectories">
+    <img src="/assets/img/8a_en.jpeg" alt="The Diversity of Clinical Trajectories">
   </figure>
 </section>
 
@@ -125,7 +125,7 @@ permalink: /lecture_brainmusic_en/
     <p>This is one of the most important sensibilities medicine has taught me: medicine is the work of listening to change through time.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/9a.jpeg" alt="Long Transitions: A Biological Timeline Beyond the Diagnosis">
+    <img src="/assets/img/9a_en.jpeg" alt="Long Transitions: A Biological Timeline Beyond the Diagnosis">
   </figure>
 </section>
 
@@ -141,7 +141,7 @@ permalink: /lecture_brainmusic_en/
     <p>Let us now turn to the phenomenon of sleep–wake regulation that forms the core of my research.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/10a.jpeg" alt="To Understand Time Is to Understand the Human Being">
+    <img src="/assets/img/10a_en.jpeg" alt="To Understand Time Is to Understand the Human Being">
   </figure>
 </section>
 
@@ -159,7 +159,7 @@ permalink: /lecture_brainmusic_en/
     <p>What small changes generate those switches? The next section introduces the Na⁺ dynamics—the movement of sodium within neurons—that became central to my research.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/11a.jpeg" alt="Dynamic Switching of Brain States: Sleep and Wakefulness">
+    <img src="/assets/img/11a_en.jpeg" alt="Dynamic Switching of Brain States: Sleep and Wakefulness">
   </figure>
 </section>
 
@@ -176,7 +176,7 @@ permalink: /lecture_brainmusic_en/
     <p>This is what “Brain Whisper” means to me. The states of tiny components—Na⁺ channels and Na⁺ ions—alter neuronal rhythm, reshape synchrony across the brain, and ultimately influence human experience. A small molecular state may help tune a large biological phenomenon.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/12a.jpeg" alt="How the State of a Protein Helps Shape Consciousness">
+    <img src="/assets/img/12a_en.jpeg" alt="How the State of a Protein Helps Shape Consciousness">
   </figure>
 </section>
 
@@ -195,7 +195,7 @@ permalink: /lecture_brainmusic_en/
     <p>We will now consider how this view—that small changes acquire meaning through time—has connected research with music in my own life.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/13a.jpeg" alt="Small Molecular States Become Rhythms and Shape Complexity Through Time">
+    <img src="/assets/img/13a_en.jpeg" alt="Small Molecular States Become Rhythms and Shape Complexity Through Time">
   </figure>
 </section>
 <h2 class="lecture-chapter">Chapter 3 — Music as Time: A Note Gains Meaning in Context</h2>
@@ -207,7 +207,7 @@ permalink: /lecture_brainmusic_en/
     <p>So far, I have described how the states of individual proteins can create cellular rhythms and how those rhythms can shape sleep, wakefulness, and behavior across the brain and body. I would now like to ask a parallel question in music: how does the flow of individual notes create a larger temporal arc? Because I have focused especially on Chopin, I will use two of his works as examples.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/14a.jpeg" alt="Music Has Continued as Another Stream of Time">
+    <img src="/assets/img/14a_en.jpeg" alt="Music Has Continued as Another Stream of Time">
   </figure>
 </section>
 
@@ -225,7 +225,7 @@ permalink: /lecture_brainmusic_en/
     <p>This resembles the way I think about brain rhythms. Even when two patterns appear to have the same period, the collective activity changes depending on where elements align, where they diverge, and where the center of gravity falls. The sleep-related neural activity I showed earlier can acquire entirely different properties and rhythms through very small shifts. Op. 59 No. 3 teaches us how microtiming creates embodied meaning.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/15a.jpeg" alt="Small Shifts in Time Create a Rotational Sense of the Body">
+    <img src="/assets/img/15a_en.jpeg" alt="Small Shifts in Time Create a Rotational Sense of the Body">
   </figure>
 </section>
 
@@ -244,7 +244,7 @@ permalink: /lecture_brainmusic_en/
     <p>The Third Ballade shows how a long temporal history can transform the meaning of what appears to be the same material.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/16a.jpeg" alt="The Same Theme Changes Meaning When Its History Changes">
+    <img src="/assets/img/16a_en.jpeg" alt="The Same Theme Changes Meaning When Its History Changes">
   </figure>
 </section>
 
@@ -256,7 +256,7 @@ permalink: /lecture_brainmusic_en/
     <p>Technically flawless playback can now be automated. We still attend concerts performed by human beings because we want to experience the performer’s interpretation—their particular way of shaping time.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/17a.jpeg" alt="Sensibilities Cultivated Through Music">
+    <img src="/assets/img/17a_en.jpeg" alt="Sensibilities Cultivated Through Music">
   </figure>
 </section>
 
@@ -270,7 +270,7 @@ permalink: /lecture_brainmusic_en/
     <p>Interpreting a Chopin phrase, reading brain-activity data, and listening to a patient are all, for me, practices of reading the temporal structure beneath the surface.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/18a.jpeg" alt="Reading a Score, Reading Data, and Seeing a Patient">
+    <img src="/assets/img/18a_en.jpeg" alt="Reading a Score, Reading Data, and Seeing a Patient">
   </figure>
 </section>
 
@@ -284,7 +284,7 @@ permalink: /lecture_brainmusic_en/
     <p>The interpretive process I learned in music has proved remarkably close to the way I think in medical research.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/19a.jpeg" alt="Performance Presents a Hypothesis Through Time">
+    <img src="/assets/img/19a_en.jpeg" alt="Performance Presents a Hypothesis Through Time">
   </figure>
 </section>
 
@@ -296,7 +296,7 @@ permalink: /lecture_brainmusic_en/
     <p>The question is whether we can translate those capacities into the language of society. We can translate what music has cultivated into the languages of medicine, research, education, and business. I believe this will become increasingly important for musicians in the future.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/20a.jpeg" alt="Translating Musical Capacities into the Language of Society">
+    <img src="/assets/img/20a_en.jpeg" alt="Translating Musical Capacities into the Language of Society">
   </figure>
 </section>
 
@@ -311,7 +311,7 @@ permalink: /lecture_brainmusic_en/
     <p>The value of music does not exist only on the stage. How can we transform music into an experience within society? I would like to begin answering that question in the field I know best: medicine and healthcare.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/21a.jpeg" alt="Expanding What It Means to Build a Life with Music">
+    <img src="/assets/img/21a_en.jpeg" alt="Expanding What It Means to Build a Life with Music">
   </figure>
 </section>
 
@@ -325,7 +325,7 @@ permalink: /lecture_brainmusic_en/
     <p>Music is also a method of understanding human beings—one that reaches the brain, body, emotions, and memory. This creates a natural connection with medicine through music therapy. In music therapy, the creative process can be as important as listening: patients may actively make music with instruments such as castanets or the piano.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/22a.jpeg" alt="Music and Medicine">
+    <img src="/assets/img/22a_en.jpeg" alt="Music and Medicine">
   </figure>
 </section>
 <section class="lecture-slide" id="slide-23">
@@ -390,7 +390,7 @@ permalink: /lecture_brainmusic_en/
     <p>This is what I find so compelling at the intersection of music and medicine.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/23a.jpeg" alt="Music May Help the Body Return to a State in Which It Can Move">
+    <img src="/assets/img/23a_en.jpeg" alt="Music May Help the Body Return to a State in Which It Can Move">
   </figure>
 </section>
 
@@ -402,7 +402,7 @@ permalink: /lecture_brainmusic_en/
     <p>Medicine already draws on approaches such as sandplay therapy, narrative practice, bodily expression, and art therapy. Let me offer one example.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/24a.jpeg" alt="Working with What Is Difficult to Put into Words">
+    <img src="/assets/img/24a_en.jpeg" alt="Working with What Is Difficult to Put into Words">
   </figure>
 </section>
 
@@ -413,7 +413,7 @@ permalink: /lecture_brainmusic_en/
     <p>LEGO® SERIOUS PLAY® follows a related direction outside medicine and is now used in many industries. The image on this slide comes from the LEGO® SERIOUS PLAY® website. Participants use LEGO bricks to construct models that reflect an idea or an aspect of their inner experience. Companies increasingly use this framework for generating ideas and gaining insight. Verbalized ideas are easier to grasp, but many of the images within us are vague, difficult to articulate, and not yet fully conscious. By making something first, explaining why it was made, reconsidering it, and rebuilding it, an image can gradually acquire form.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/25a.jpeg" alt="Sandplay Therapy and LEGO Serious Play">
+    <img src="/assets/img/25a_en.jpeg" alt="Sandplay Therapy and LEGO Serious Play">
   </figure>
 </section>
 
@@ -428,7 +428,7 @@ permalink: /lecture_brainmusic_en/
     <p>For me, a scientific presentation, a piece of music, and a story are not entirely separate. Each is a method for translating complexity into human experience.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/26a.jpeg" alt="Music and Science Communication">
+    <img src="/assets/img/26a_en.jpeg" alt="Music and Science Communication">
   </figure>
 </section>
 
@@ -439,7 +439,7 @@ permalink: /lecture_brainmusic_en/
     <p>Art also appears on the covers of scientific journals. Research concepts often become so complex that they are difficult to communicate to a broad audience. Yet every researcher wants to convey the core idea. Art can serve as the medium through which that central concept becomes intuitively accessible.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/27a.jpeg" alt="The Concept of Pointillism and the Concept of Research">
+    <img src="/assets/img/27a_en.jpeg" alt="The Concept of Pointillism and the Concept of Research">
   </figure>
 </section>
 
@@ -451,7 +451,7 @@ permalink: /lecture_brainmusic_en/
     <p>Human beings do not move through explanation alone. We move when we feel, experience, and discover meaning. Art is therefore not an optional margin around human life; it stands near the center of how we understand people. For that reason, I believe it may play an increasingly important role in medicine and healthcare.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/28a.jpeg" alt="Art and the Power to Communicate">
+    <img src="/assets/img/28a_en.jpeg" alt="Art and the Power to Communicate">
   </figure>
 </section>
 
@@ -476,7 +476,7 @@ permalink: /lecture_brainmusic_en/
     <p>Continuing music while working in society, continuing music as a physician, and seeing music as a researcher—all of these paths have meaning.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/29a.jpeg" alt="Vision: From Brain Whisper to Human Experience">
+    <img src="/assets/img/29a_en.jpeg" alt="Vision: From Brain Whisper to Human Experience">
   </figure>
 </section>
 
@@ -489,7 +489,7 @@ permalink: /lecture_brainmusic_en/
     <p>Stepping outside a specialty does not mean abandoning it. It means bringing that specialty to life in another place.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/30a.jpeg" alt="Living Across Boundaries">
+    <img src="/assets/img/30a_en.jpeg" alt="Living Across Boundaries">
   </figure>
 </section>
 
@@ -508,7 +508,7 @@ permalink: /lecture_brainmusic_en/
     <p>I hope this offers one possible way to build an axis of your own.</p>
   </div>
   <figure class="slide-image">
-    <img src="/assets/img/31a.jpeg" alt="Forming Your Own Question">
+    <img src="/assets/img/31a_en.jpeg" alt="Forming Your Own Question">
   </figure>
 </section>
 
