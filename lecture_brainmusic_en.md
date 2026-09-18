@@ -5,7 +5,7 @@ language: en
 permalink: /lecture_brainmusic_en/
 ---
 
-<p><a href="/lecture_brainmusic/">日本語版はこちら</a></p>
+<p><a href="/lecture_brainmusic/">日本語版</a></p>
 
 <h2 class="lecture-chapter">Chapter 1 — Reading States Through Time</h2>
 
