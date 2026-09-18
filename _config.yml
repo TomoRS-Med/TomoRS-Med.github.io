@@ -28,9 +28,9 @@ navbar-links:
   CV: "cv"
   Piano: "Piano"
   Lecture:
-    - 日本語: "lecture_brainmusic"
+    - Japanese: "lecture_brainmusic"
     - English: "lecture_brainmusic_en"
-  Japanese (日本語): "japanese"
+  Japanese: "japanese"
 
 ################
 # --- Logo --- #
