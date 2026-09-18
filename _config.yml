@@ -27,7 +27,9 @@ navbar-links:
   Contacts: "contacts"
   CV: "cv"
   Piano: "Piano"
-  Lecture: "lecture_brainmusic"
+  Lecture:
+    - 日本語: "lecture_brainmusic"
+    - English: "lecture_brainmusic_en"
   Japanese (日本語): "japanese"
 
 ################
@@ -294,4 +296,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

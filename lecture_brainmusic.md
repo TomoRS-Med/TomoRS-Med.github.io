@@ -3,6 +3,8 @@ layout: page
 title: 音楽×医学講演
 ---
 
+<p><a href="/lecture_brainmusic_en/">English version</a></p>
+
 <h2 class="lecture-chapter">Chapter 1　状態を、時間の中で読む</h2>
 
 <section class="lecture-slide" id="slide-1">
