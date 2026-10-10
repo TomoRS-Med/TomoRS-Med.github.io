@@ -54,4 +54,14 @@
   }
   syncLanguageLink();
   window.addEventListener('hashchange', syncLanguageLink);
+  switcher.addEventListener('click', () => {
+    const page = document.documentElement.dataset.page;
+    if (page === 'cv') return;
+    const nodes = page === 'home'
+      ? homeAnchors.map((id) => document.getElementById(id))
+      : [...document.querySelectorAll('.lecture-slide[id]')];
+    const threshold = Math.max(120, window.innerHeight * 0.2);
+    const current = nodes.filter((node) => node && node.getBoundingClientRect().top <= threshold).pop();
+    switcher.setAttribute('href', alternate + (current ? '#' + current.id : ''));
+  });
 })();
