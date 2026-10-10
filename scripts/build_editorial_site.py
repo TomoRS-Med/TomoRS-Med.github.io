@@ -133,7 +133,7 @@ def section(lang, key, content, cls=""):
 
 def home(lang):
     d, t = DATA["locales"][lang], TEXT[lang]
-    role = '佐藤智英 · ' + d['role'] if lang == 'ja' else d['role']
+    role = d['role']
     body = f'''<div class="hero-title wrap"><h1>Tomohide R. Sato</h1><p>{escape(role)}</p></div>
     <figure class="hero-photo"><img src="/assets/img/IMG_2824.jpeg" alt="{'ピアノを演奏する佐藤智英' if lang == 'ja' else 'Tomohide R. Sato playing the piano'}" width="2048" height="2115" fetchpriority="high" decoding="async"></figure>
     <div class="wrap home-content">'''
