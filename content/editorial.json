@@ -1,0 +1,707 @@
+{
+  "locales": {
+    "ja": {
+      "cv": [
+        {
+          "title": "経歴",
+          "entries": [
+            {
+              "date": "2025年 4月 - 現在",
+              "html": "・久留米大学病院臨床研修医<br>・東京大学大学院医学系研究科機能生物学専攻システムズ薬理学教室医学博士課程2年<br>・久留米大学分子生命科学研究所個体システム生物学研究部門ドクトラルフェローA"
+            },
+            {
+              "date": "2025年 3月",
+              "html": "東京大学医学部医学科 卒業"
+            },
+            {
+              "date": "2021年 4月",
+              "html": "東京大学医学部医学科 進学"
+            },
+            {
+              "date": "2019年 4月",
+              "html": "東京大学理科二類 入学"
+            },
+            {
+              "date": "2019年 3月",
+              "html": "聖光学院高等学校 卒業"
+            }
+          ]
+        },
+        {
+          "title": "学会発表",
+          "entries": [
+            {
+              "date": "2026年 9月",
+              "html": "第24回日本乳癌学会九州地方会<br>乳癌術後26年を経て腋窩腫瘍を認め,乳癌再発と鑑別を要した一例<br>Case Report: An Axillary Tumor Detected 26 Years After Breast Cancer Surgery, Requiring Differentiation from Breast Cancer Recurrence"
+            },
+            {
+              "date": "2026年 9月",
+              "html": "第8回久留米大学サージカルフォーラム<br>乳癌術後再発治療中に肺腫瘍血栓性微小血管症を来した1例<br>Case Report: A Case of Pulmonary Tumor Thrombotic Microangiopathy During Treatment for Postoperative Recurrence of Breast Cancer"
+            },
+            {
+              "date": "2026年 3月",
+              "html": "World Congress of Nephrology<br>シクロスポリン抵抗性ネフローゼ症候群に対するLDLアフェレシスの有効例：Mechanistic insightを伴う症例報告<br>Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights (WCN26-AB-3029)"
+            },
+            {
+              "date": "2026年 1月",
+              "html": "第18回福岡県医学会総会<br>CGMにて周術期血糖変動解析を行なったインスリノーマの一例<br>Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma"
+            },
+            {
+              "date": "2025年 8月",
+              "html": "第25回日本内分泌学会 九州支部学術集会　若手奨励賞選考セッション<br>CGMにて周術期血糖変動解析を行なったインスリノーマの一例<br>Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma"
+            },
+            {
+              "date": "2024年 11月",
+              "html": "第31回日本時間生物学会学術大会 ポスター発表<br>A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR."
+            },
+            {
+              "date": "2024年 9月",
+              "html": "Poster presentation at ICMMA2024 International Conference on “Self-organization in Life and Matter”<br>A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR."
+            },
+            {
+              "date": "2023年 12月",
+              "html": "第30回日本時間生物学会学術大会・日本睡眠学会第45回定期学術大会 ポスター発表<br>A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR."
+            },
+            {
+              "date": "2022年 12月",
+              "html": "第29回 日本時間生物学会学術大会 ポスター発表<br>A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR."
+            }
+          ]
+        },
+        {
+          "title": "資格",
+          "entries": [
+            {
+              "date": "2025年 3月",
+              "html": "医師国家試験 合格 "
+            },
+            {
+              "date": "2024年 4月",
+              "html": "OET Medicine Pass (ECFMG Certificate基準) "
+            },
+            {
+              "date": "2024年 3月",
+              "html": "USMLE Step2-CK Pass"
+            },
+            {
+              "date": "2024年 2月",
+              "html": "TOEIC 985"
+            },
+            {
+              "date": "2023年 8月",
+              "html": "TOEFL iBT 115"
+            },
+            {
+              "date": "2023年 3月",
+              "html": "USMLE Step1 Pass"
+            },
+            {
+              "date": "2021年 12月",
+              "html": "応用情報技術者"
+            },
+            {
+              "date": "2017年 3月",
+              "html": "英検1級"
+            }
+          ]
+        },
+        {
+          "title": "受賞歴・表彰歴",
+          "entries": [
+            {
+              "date": "2024年 12月",
+              "html": "有馬聡記念フェローシップ受賞<br>東京大学医学部医学科"
+            },
+            {
+              "date": "2024年 1月",
+              "html": "臨床実習学部長賞受賞<br>東京大学医学部医学科"
+            },
+            {
+              "date": "2018年 8月",
+              "html": "アジアサイエンスキャンプ2018・日本代表"
+            }
+          ]
+        },
+        {
+          "title": "臨床経験",
+          "entries": [
+            {
+              "date": "2025年 4月 -",
+              "html": "久留米大学病院　臨床研修医"
+            },
+            {
+              "date": "2024年 5月 - 2024 6月",
+              "html": "Johns Hopkins大学病院・精神科でのエレクティブクラークシップ"
+            },
+            {
+              "date": "2023年 1月 - 2024 11月",
+              "html": "東大病院でのクリニカルクラークシップ"
+            }
+          ]
+        },
+        {
+          "title": "研究経験",
+          "entries": [
+            {
+              "date": "2021年 4月 - 現在",
+              "html": "学生研究員・ERATO上田生体時間プロジェクト研究協力員<br>東京大学医学部・システムズ薬理学教室<br>Advisor: <ins><a href=\"https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html\">Hiroki R. Ueda</a></ins> & <ins><a href=\"https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html\">Koji L. Ode</a></ins>"
+            },
+            {
+              "date": "2024年 6月 - 現在",
+              "html": "研究インターン<br>マンチェスター大学・Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health<br>Advisor: <ins><a href=\"https://research.manchester.ac.uk/en/persons/mino-belle\">Mino Belle</a></ins>"
+            },
+            {
+              "date": "2024年 5月 - 2024年 6月",
+              "html": "研究インターン<br>Johns Hopkins大学医学部・Schizophrenia Center<br>Advisor: <ins><a href=\"https://profiles.hopkinsmedicine.org/provider/akira-sawa/2777051\">澤 明</a></ins><br>Report: <ins><a href=\"https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrfiles.com/ugd/d1a05d_dd16de7a20c44d74922b167d6204b164.pdf\">活動報告書</a></ins>"
+            },
+            {
+              "date": "2024年 4月 - 2024年 5月",
+              "html": "研究インターン<br>東京大学医学部・システム遺伝学教室<br>Advisor: <ins><a href=\"https://genome.m.u-tokyo.ac.jp/tools.html\">岡田 随象</a></ins>"
+            },
+            {
+              "date": "2023年 1月 - 2023年 2月",
+              "html": "研究インターン<br>東京大学医学部・神経生理学教室<br>Advisor: <ins><a href=\"https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Members_j.html\">狩野 方伸</a></ins>"
+            },
+            {
+              "date": "2022年 2月 - 2022年 3月",
+              "html": "研究インターン<br>東京大学医学部・システム生理学教室<br>Advisor: <ins><a href=\"https://square.umin.ac.jp/bme/Member.html\">山本 希美子</a></ins>"
+            }
+          ]
+        },
+        {
+          "title": "奨学金",
+          "entries": [
+            {
+              "date": "2025年 4月 - 2027年 3月",
+              "html": "基礎系博士直接進学者奨学金"
+            },
+            {
+              "date": "2024年 12月 - 2024年 12月",
+              "html": "有馬聡記念フェローシップ 受賞"
+            },
+            {
+              "date": "2024年 6月 - 2024年 7月",
+              "html": "MDプログラム (留学支援奨学金)"
+            },
+            {
+              "date": "2024年 5月 - 2024年 6月",
+              "html": "大坪修・鉄門フェローシップ (留学支援奨学金)"
+            },
+            {
+              "date": "2024年 5月 - 2024年 6月",
+              "html": "安川信子医学奨励基金 (留学支援奨学金)"
+            }
+          ]
+        },
+        {
+          "title": "専門的貢献活動 (Professional services)",
+          "entries": [
+            {
+              "date": "2026年 7月",
+              "html": "福岡国際音楽大学「ビジネス最前線」（オムニバス講義）登壇<br>福岡国際音楽大学"
+            },
+            {
+              "date": "2022年 5月",
+              "html": "パネルディスカッション \"Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine\" パネラーとして参加<br>Japanese Medical Society of America, 東京大学医学部"
+            },
+            {
+              "date": "2022年 3月",
+              "html": "パネルディスカッション \"Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution.\" パネラーとして参加<br>Japanese Medical Society of America, 東京大学医学部"
+            }
+          ]
+        }
+      ],
+      "research_full": [
+        "私は、睡眠を通して脳状態遷移の原理を理解し、その知見を精神疾患および代謝疾患の理解へと発展させることを目指しています。臨床医学と数理モデルを融合し、多階層にわたる生体ダイナミクスを定量的に記述することで、脳と身体を統合する生理学的原理の解明に取り組んでいます。",
+        "現在、久留米大学病院にて臨床研修を行うとともに、東京大学大学院医学系研究科においてシステムズ薬理学を専攻し、久留米大学分子生命科学研究所にてシステム生物学的研究に従事しています。研究の主軸は睡眠および神経活動の数理モデルであり、神経細胞の発火パターンやイオンダイナミクスに基づいて、睡眠・覚醒といった脳状態がどのように生成され、維持され、遷移するのかを明らかにしようとしています。",
+        "睡眠研究は私にとって目的であると同時に手段でもあります。睡眠は神経活動と行動、生理機能の関係を定量的に観察できる数少ない生体現象であり、脳状態遷移の原理を探究するための理想的なモデル系です。私は睡眠から得られた知見を基盤として、精神疾患の背景にある脳状態、ひいては生体状態制御の原理を明らかにしたいと考えています。",
+        "睡眠研究では、Na⁺ダイナミクスに着目し、神経細胞のup–down発火パターンやslow-wave oscillationを再現する数理モデルを構築してきました。睡眠を単なる状態分類としてではなく、神経活動、膜電位、イオン濃度、回路結合の相互作用から創発される動的状態として捉えています。また近年は、単一細胞レベルの現象から神経回路全体のダイナミクスへと研究対象を拡張し、脳状態遷移を多階層的に理解することを目指しています。",
+        "精神疾患の多くは睡眠異常と深く関連しています。うつ病、双極症、統合失調症などでは睡眠構造や神経活動パターンの変化が認められますが、その背景にある脳ダイナミクスは十分には理解されていません。私は睡眠研究で得られた知見を基盤として、精神疾患を脳状態遷移の異常として捉え直し、神経活動や回路ダイナミクスの観点から理解することを目指しています。症候学的分類にとどまらず、脳状態制御機構の破綻として精神疾患を理解することが、より本質的な病態理解につながると考えています。",
+        "一方で、脳状態の変化は精神機能だけでなく、身体の恒常性維持にも大きな影響を及ぼします。睡眠と覚醒の状態は、自律神経系や内分泌系を介してエネルギー代謝や糖代謝を調節しており、脳と身体は密接に結びついた一つの制御システムとして機能しています。私は、睡眠や精神機能を脳内に閉じた現象としてではなく、全身の生理状態を規定するシステムの一部として理解したいと考えています。",
+        "そのため、私の関心は脳状態の研究から自然に代謝研究へと広がっています。睡眠不足が糖代謝異常や肥満のリスクを高めることはよく知られていますが、私はこれらを単なる疫学的関連としてではなく、脳状態制御機構と代謝制御機構の相互作用として理解したいと考えています。睡眠、精神、代謝は独立した領域ではなく、生体状態調節という共通基盤の上に存在する現象であると考えています。",
+        "臨床研究においても同様の視点を採用しています。内分泌代謝領域では、持続血糖モニタリング（CGM）データを用いて血糖変動を時系列信号として解析し、薬物治療や手術介入による状態変化を定量化してきました。さらに、β細胞や腫瘍細胞の応答性の違いを電気生理学的特性として捉え、その背景にある分子機構を数理モデルから検討しています。私は代謝異常を単なる物質量の変化としてではなく、生体制御システムのダイナミクスの変容として理解したいと考えています。また、他領域の臨床研究においても、生体システム全体の状態変化という観点を重視しています。例えば、LDLアフェレシスに関する研究では、脂質代謝、薬物動態、受容体活性の相互作用を統合的に捉えることで、治療効果をシステムレベルの状態変化として理解することを試みました。研究対象は異なっても、その根底には生体ダイナミクスを定量的に理解したいという共通した問題意識があります。",
+        "これらの研究に一貫しているのは、「生体状態はいかに定義され、いかに遷移し、いかに制御されるのか」という問いです。睡眠、精神活動、代謝応答、薬物応答はいずれも、多階層の相互作用から生じる動的状態の表現型であり、それらを統一的に理解する枠組みを構築したいと考えています。私にとって数理モデルは単なる解析手法ではなく、複雑な生命現象を統一的な言葉で理解するための方法論です。",
+        "今後は、神経活動モデルと臨床データの統合をさらに進め、睡眠、精神疾患、代謝疾患を横断する研究を展開したいと考えています。睡眠をモデル系として脳状態遷移の原理を解明し、その知見を精神疾患や代謝疾患へ展開することで、異なる疾患の背後に存在する共通原理を明らかにしたいと考えています。また、基礎研究で得られる神経活動データと臨床現場で得られる時系列データを接続することで、基礎と臨床を往復しながら新たな疾患理解へと発展させたいと考えています。",
+        "最終的には、睡眠から得られた知見を起点として脳と身体を結ぶ生体ダイナミクスの原理を解明し、精神疾患および代謝疾患の理解と治療に新たな視点を提供できる physician-scientist になることを目標としています。睡眠・精神・代謝を個別の領域としてではなく、一つの統合された生体システムとして理解することで、人の健康と疾患をより深く説明できる理論的基盤を構築したいと考えています。"
+      ],
+      "piano_sections": [
+        {
+          "title": "演奏活動",
+          "entries": [
+            {
+              "date": "2026年",
+              "html": "久留米大学医学部・井田弘明教授退任パーティーでの祝奏<br>久留米大学医学部・放射線科同門会パーティーでの祝奏"
+            },
+            {
+              "date": "2025年",
+              "html": "ルーテル市ヶ谷ホールでのチャリティーコンサート (がん患者さん・ご家族の心理面でのサポートを行う「マギーズ東京」を支援するチャリティーコンサート)"
+            },
+            {
+              "date": "2024年",
+              "html": "東大病院でのクリスマス・コンサート"
+            },
+            {
+              "date": "2017年",
+              "html": "チャイルドエイド チャリティーコンサート"
+            },
+            {
+              "date": "2017年",
+              "html": "介護施設でのコンサート (グランケアあざみ野)"
+            }
+          ]
+        },
+        {
+          "title": "ピアノの受賞歴",
+          "entries": [
+            {
+              "date": "2021年",
+              "html": "第15回セシリア国際音楽コンクール ピアノ部門大学生Ⅰの部本選 最高位"
+            },
+            {
+              "date": "2021年",
+              "html": "第22回ショパン国際ピアノコンクールin Asia ショパニストB部門アジア大会 金賞"
+            },
+            {
+              "date": "2017年",
+              "html": "第18回ショパン国際ピアノコンクールin Asia 高校生部門アジア大会 銀賞"
+            },
+            {
+              "date": "2016年",
+              "html": "第17回大阪国際音楽コンクールのアマチュア部門スーペリアコース 第2位"
+            },
+            {
+              "date": "2016年",
+              "html": "第17回ショパン国際ピアノコンクールin Asia 中学生部門アジア大会 銀賞"
+            },
+            {
+              "date": "2015年",
+              "html": "第9回横浜国際音楽コンクール　ピアノ部門中学生の部 審査員特別賞"
+            },
+            {
+              "date": "2014年",
+              "html": "第8回横浜国際音楽コンクール ピアノ部門中学生の部 第4位"
+            },
+            {
+              "date": "2013年",
+              "html": "第23回日本クラシック音楽コンクールピアノ部門中学男子の部 第5位"
+            },
+            {
+              "date": "2009年",
+              "html": "第10回ショパン国際ピアノコンクールin Asia 小学校1, 2年生部門アジア大会 金賞"
+            },
+            {
+              "date": "2008年",
+              "html": "2008年度ピティナ・ピアノコンペティションB級 金賞"
+            }
+          ]
+        },
+        {
+          "title": "マスターコース",
+          "entries": [
+            {
+              "date": "2023年",
+              "html": "Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Bronisława Kawalla-Ryszka)"
+            },
+            {
+              "date": "2019年",
+              "html": "Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Jerzy Romaniuk)"
+            },
+            {
+              "date": "2016年",
+              "html": "Fryderyk Chopin University of Musicでのマスターコース参加、ディプロマ取得 (Prof. Bronisława Kawalla-Ryszka)"
+            }
+          ]
+        }
+      ],
+      "name": "佐藤智英",
+      "role": "医師・研究者 / ピアニスト",
+      "bio": [
+        "睡眠や脳状態から疾患の生理まで、生体システムに創発するダイナミクスを研究しています。臨床医学、電気生理学、数理モデルを通して、生命がどのように状態を生み、維持し、変化させるのかを探究しています。",
+        "現在は久留米大学病院の臨床研修医として診療に携わりながら、東京大学大学院医学系研究科・システムズ薬理学教室で博士課程に在籍し、久留米大学分子生命科学研究所でドクトラルフェローAとして研究を続けています。"
+      ],
+      "research_intro": "睡眠を通して脳状態遷移の原理を理解し、その知見を精神疾患と代謝疾患の理解へつなげる。睡眠研究は、私にとって目的であると同時に、脳と身体を統合して考えるための基盤でもあります。",
+      "topics": [
+        {
+          "title": "睡眠と神経ダイナミクス",
+          "text": "Na⁺ダイナミクスに着目した数理モデルを用いて、神経細胞のup–down発火パターンと徐波振動を研究しています。単一細胞から神経回路へ、睡眠と覚醒が生じる仕組みを多階層で捉えます。"
+        },
+        {
+          "title": "脳状態と精神疾患",
+          "text": "睡眠研究で得られた知見を基盤に、精神疾患を脳状態制御の観点から理解することを目指しています。神経活動、回路ダイナミクス、臨床で観察される状態変化を結びつけることが関心の中心です。"
+        },
+        {
+          "title": "代謝と全身の生理",
+          "text": "CGMによる血糖変動や治療応答を時系列として解析し、生体制御の変化を定量化します。睡眠・精神・代謝を、生体状態調節という共通の基盤から理解することを目指しています。"
+        }
+      ],
+      "piano_intro": "4歳の時からピアノを続けてきました。現在は医師として働きながら演奏を続け、時々舞台で演奏する機会を頂いています。音楽を通して、医療に携わる者として何ができるのかを考えています。",
+      "lecture_intro": "福岡国際音楽大学「ビジネス最前線」での講演。神経細胞の小さな変化から、脳状態、音楽、人間の経験へ。医学・研究・音楽をつなぐ視点についてお話ししました。"
+    },
+    "en": {
+      "cv": [
+        {
+          "title": "Education",
+          "entries": [
+            {
+              "date": "2025 Apr - Present",
+              "html": "・The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Pharmacology (PhD student)<br>・Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A<br>・Residency doctor at Kurume University Hospital"
+            },
+            {
+              "date": "2019 - 2025",
+              "html": "・Faculty of Medicine, The University of Tokyo, Tokyo, Japan"
+            }
+          ]
+        },
+        {
+          "title": "Research Experience",
+          "entries": [
+            {
+              "date": "2025 Apr - Present",
+              "html": "PhD student・ERATO UEDA Biological Timing Project student research assistant<br>The University of Tokyo Graduate School of Medicine Division of Functional Biology Department of Systems Biology<br>Kurume University Institute of Life Science Department of Systems Biology Doctoral Fellow A<br>Advisor: <ins><a href=\"https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html\">Hiroki R. Ueda</a></ins> & <ins><a href=\"https://lifescience.kurume-u.ac.jp/polymer-chemistry/about/\">Rikuhiro G. Yamada</a></ins>& <ins><a href=\"https://lifescience.kurume-u.ac.jp/polymer-chemistry/about/\">Hiroshi Fukishima</a></ins>"
+            },
+            {
+              "date": "2021 Apr - 2025 Mar",
+              "html": "Undergraduate Researcher・ERATO UEDA Biological Timing Project student research assistant<br>Department of Systems Pharmacology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>Advisor: <ins><a href=\"https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html\">Hiroki R. Ueda</a></ins> & <ins><a href=\"https://sys-pharm.m.u-tokyo.ac.jp/joinus-e.html\">Koji L. Ode</a></ins>"
+            },
+            {
+              "date": "2024 Jun - Present",
+              "html": "Student Internship<br>Centre for Biological Timing, Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK<br>Advisor: <ins><a href=\"https://research.manchester.ac.uk/en/persons/mino-belle\">Mino Belle</a></ins>"
+            },
+            {
+              "date": "2024 May - 2024 Jun",
+              "html": "Student Internship<br>Schizophrenia Center, Faculty of Medicine, School of Medicine, Johns Hopkins University, Baltimore, USA<br>Advisor: <ins><a href=\"https://profiles.hopkinsmedicine.org/provider/akira-sawa/2777051\">Akira Sawa</a></ins><br>Report: <ins><a href=\"https://d1a05d1c-d66a-4058-8c64-2aa8418c1d97.usrfiles.com/ugd/d1a05d_dd16de7a20c44d74922b167d6204b164.pdf\">Activity report</a></ins>"
+            },
+            {
+              "date": "2024 Apr - 2024 May",
+              "html": "Student Internship<br>Department of Systems Genetics, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>Advisor: <ins><a href=\"https://genome.m.u-tokyo.ac.jp/tools.html\">Yukinori Okada</a></ins>"
+            },
+            {
+              "date": "2023 Jan - 2023 Feb",
+              "html": "Student Internship<br>Department of Neurophysiology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>Advisor: <ins><a href=\"https://plaza.umin.ac.jp/~neurophy/Kano_Lab_j/Members_j.html\">Masanobu Kano</a></ins>"
+            },
+            {
+              "date": "2022 Feb - 2022 Mar",
+              "html": "Student Internship<br>Department of System Physiology, Faculty of Medicine, The University of Tokyo, Tokyo, Japan<br>Advisor: <ins><a href=\"https://square.umin.ac.jp/bme/Member.html\">Kimiko Yamamoto</a></ins>"
+            }
+          ]
+        },
+        {
+          "title": "Clinical activities",
+          "entries": [
+            {
+              "date": "2024 May - 2024.Jun",
+              "html": "Elective clerkship at Department of Psychiatry Johns Hopkins University School of Medicine"
+            },
+            {
+              "date": "2023 Jan - 2024.Nov",
+              "html": "Clinical clerkship at The University of Tokyo Hospital"
+            }
+          ]
+        },
+        {
+          "title": "Academic conferences",
+          "entries": [
+            {
+              "date": "2026 Sep",
+              "html": "24th Kyushu Regional Meeting of the Japanese Breast Cancer Society<br>Case Report: An Axillary Tumor Detected 26 Years After Breast Cancer Surgery, Requiring Differentiation from Breast Cancer Recurrence"
+            },
+            {
+              "date": "2026 Sep",
+              "html": "8th Kurume Surgical Forum<br>Case Report: A Case of Pulmonary Tumor Thrombotic Microangiopathy During Treatment for Postoperative Recurrence of Breast Cancer"
+            },
+            {
+              "date": "2026 Mar",
+              "html": "World Congress of Nephrology<br>Successful Use of LDL Apheresis in Cyclosporin-Resistant Nephrotic Syndrome: A Case Report with Mechanistic Insights (WCN26-AB-3029)"
+            },
+            {
+              "date": "2026 Jan",
+              "html": "18th Annual Meeting of the Fukuoka Society of Medicine<br>Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma"
+            },
+            {
+              "date": "2025 Aug",
+              "html": "25th Young Investigator Award Selection Session, Kyushu Regional Meeting of the Japan Endocrine Society<br>Case Report: Analysis of Perioperative Glycemic Variability Using Continuous Glucose Monitoring in Insulinoma"
+            },
+            {
+              "date": "2024 Nov",
+              "html": "Poster presentation at 31th Annual Meeting, Japanese Soc. Chronobiology 2024<br>A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR."
+            },
+            {
+              "date": "2024 Sep",
+              "html": "Poster presentation at ICMMA2024 International Conference on “Self-organization in Life and Matter”<br>A design principle for slow-wave sleep firing pattern with Na+ dynamics. Sato TR, Ode KL, Kinoshita FL, Ueda HR."
+            },
+            {
+              "date": "2023 Dec",
+              "html": "Poster presentation at 30th Annual Meeting, Japanese Soc. Chronobiology 2023 and 45th Annual Meeting, Japanese Soc. Sleep Research 2023<br>A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR."
+            },
+            {
+              "date": "2022 Dec",
+              "html": "Poster presentation at 29th Annual Meeting, Japanese Soc. Chronobiology 2022<br>A design principle of slow-wave sleep firing patterns with Na+ dynamics. Sato TR, Ode KL, Ueda HR."
+            }
+          ]
+        },
+        {
+          "title": "Certifications",
+          "entries": [
+            {
+              "date": "2025 Mar",
+              "html": "Medical Licence Exam (Japan) Pass "
+            },
+            {
+              "date": "2024 Apr",
+              "html": "OET Medicine satisfied criteria for ECFMG certificate "
+            },
+            {
+              "date": "2024 Mar",
+              "html": "USMLE Step2-CK Pass"
+            },
+            {
+              "date": "2024 Feb",
+              "html": "TOEIC 985"
+            },
+            {
+              "date": "2023 Aug",
+              "html": "TOEFL iBT 115"
+            },
+            {
+              "date": "2023 Mar",
+              "html": "USMLE Step1 Pass"
+            },
+            {
+              "date": "2021 Dec",
+              "html": "Applied Information Technology Engineer Examination"
+            },
+            {
+              "date": "2017 Mar",
+              "html": "Eiken 1st grade"
+            }
+          ]
+        },
+        {
+          "title": "Fellowships & Grants",
+          "entries": [
+            {
+              "date": "2025 Apr - 2027 Mar",
+              "html": "Scholarship for Direct Entry into the Basic Science Doctoral Program ($13200)"
+            },
+            {
+              "date": "2024 Dec - 2024 Dec",
+              "html": "Scholarship for research activities, Satoshi Arima Memorial Fellowship ($650)"
+            },
+            {
+              "date": "2024 Jun - 2024 Jul",
+              "html": "Scholarship for Studying Abroad, MD Program ($1090)"
+            },
+            {
+              "date": "2024 May - 2024 Jun",
+              "html": "Scholarship for Studying Abroad, Yasukawa Nobuko Incentive Fund ($2600)"
+            },
+            {
+              "date": "2024 May - 2024 Jun",
+              "html": "Scholarship for Studying Abroad, Otsubo Osamu Tetsumon Fellowship Fund ($650)"
+            }
+          ]
+        },
+        {
+          "title": "Awards, Honors",
+          "entries": [
+            {
+              "date": "2024 Dec",
+              "html": "Satoshi Arima Memorial Fellowship ($900)<br>Faculty of Medicine, The University of Tokyo, Tokyo, Japan"
+            },
+            {
+              "date": "2024 Jan",
+              "html": "Dean’s award for excellence in clinical clerkship<br>Faculty of Medicine, The University of Tokyo, Tokyo, Japan"
+            },
+            {
+              "date": "2018 Aug",
+              "html": "Asian Science Camp Japan Representative"
+            }
+          ]
+        },
+        {
+          "title": "Professional services",
+          "entries": [
+            {
+              "date": "2026 Jul",
+              "html": "Guest lecture at the Fukuoka International College of Music “Frontiers of Business” Lecture Series<br>Fukuoka International College of Music"
+            },
+            {
+              "date": "2022 May",
+              "html": "Panelist at the panel discussion \"Persuing the Art of Medicine: Bridging Humanities to Narrative-Based Medicine\"<br>Japanese Medical Society of America, Faculty of Medicine, The University of Tokyo"
+            },
+            {
+              "date": "2022 Mar",
+              "html": "Panelist at the panel discussion \"Persuing the Art of Medicine: Aiming to resolve a challenging issue with an effective solution.\"<br>Japanese Medical Society of America, Faculty of Medicine, The University of Tokyo"
+            }
+          ]
+        }
+      ],
+      "research_full": [
+        "My long-term goal is to understand the principles governing brain-state transitions and to apply these insights to psychiatric and metabolic disorders. By integrating clinical medicine, electrophysiology, and mathematical modeling, I seek to establish a quantitative framework that links neural dynamics, physiology, and disease.",
+        "I am currently a clinical resident at Kurume University Hospital while pursuing doctoral training in Systems Pharmacology at the Graduate School of Medicine, The University of Tokyo, and conducting research in systems biology at the Kurume University Institute of Molecular Life Science. My primary research focuses on mathematical modeling of sleep and neuronal dynamics. In particular, I investigate how brain states such as sleep and wakefulness are generated, maintained, and transitioned through interactions among neuronal firing patterns, ion dynamics, membrane excitability, and network connectivity.",
+        "Sleep research is both the goal and the methodological foundation of my scientific career. Sleep is one of the few biological phenomena in which neural activity, behavior, and physiological regulation can be quantitatively observed across multiple scales. For this reason, I regard sleep as an ideal model system for studying the fundamental principles of brain-state transitions. My aim is not only to understand sleep itself, but also to use sleep as a window into broader mechanisms governing brain function and disease.",
+        "In my work on sleep and neuronal dynamics, I have developed mathematical models focusing on Na⁺ dynamics to describe up–down firing patterns and slow-wave oscillations. Rather than treating sleep as a static behavioral or electrophysiological category, I conceptualize it as a dynamic state emerging from interactions among neuronal activity, membrane potentials, ionic concentrations, and neural circuits. More recently, my work has expanded from single-neuron dynamics toward network-level mechanisms underlying state transitions in the sleeping brain.",
+        "A major motivation for this work is its relevance to psychiatry. Many psychiatric disorders, including major depression, bipolar disorder, and schizophrenia, are closely associated with abnormalities in sleep architecture and neural activity. However, the dynamical principles linking these phenomena remain poorly understood. I hope to use insights gained from sleep research to reinterpret psychiatric disorders as disorders of brain-state regulation. By studying how neural systems transition between stable and unstable states, I aim to contribute to a mechanistic understanding of psychiatric disease grounded in neural dynamics rather than symptom-based classification alone.",
+        "Changes in brain states also extend beyond mental function and profoundly influence physiological homeostasis throughout the body. Sleep and wakefulness regulate energy balance and glucose metabolism through interactions with autonomic, endocrine, and metabolic systems. From this perspective, the brain and body do not operate as separate entities, but as components of an integrated regulatory network. I therefore seek to understand sleep and psychiatric function not as isolated cerebral phenomena, but as processes embedded within whole-body physiology.",
+        "This perspective naturally extends my interests toward metabolism. While sleep disturbances are known to increase the risk of obesity, diabetes, and metabolic dysfunction, I am interested in understanding these relationships not merely as epidemiological associations, but as interactions between mechanisms governing brain-state regulation and metabolic control. In my view, sleep, mental health, and metabolism represent interconnected manifestations of a common system responsible for maintaining biological state stability.",
+        "This framework also shapes my clinical research. In endocrinology and metabolism, I have analyzed continuous glucose monitoring (CGM) data as time-series signals, quantifying dynamic responses to pharmacological treatment and surgical intervention. By integrating clinical observations with electrophysiological principles and mathematical models of β-cell activity, I have investigated how alterations in cellular responsiveness contribute to disease dynamics. Rather than viewing metabolic disorders solely through static measurements, I seek to understand them as changes in the dynamics of biological control systems.",
+        "Similarly, in nephrology-related research, I have explored the mechanisms of LDL apheresis by reconstructing treatment effects as dynamic interactions among lipid metabolism, receptor regulation, and pharmacokinetics. Although these projects span different clinical fields, they share a common objective: understanding biological systems through their dynamic behavior over time.",
+        "Across all of my work, a central question remains constant: How are biological states defined, how do they transition, and how can they be controlled? Whether studying neuronal activity during sleep, psychiatric symptoms, glucose fluctuations, or therapeutic responses, I view these phenomena as observable manifestations of underlying dynamical processes operating across multiple biological scales. To me, mathematical modeling is not merely an analytical tool, but a common language for understanding complex biological systems.",
+        "Moving forward, I aim to further integrate computational neuroscience, sleep research, psychiatry, and metabolism. By using sleep as a model system to uncover the principles of brain-state transitions, I hope to apply these insights to psychiatric and metabolic disorders and identify mechanisms shared across seemingly distinct diseases. I am particularly interested in connecting neuronal activity data from basic research with clinical time-series datasets, including sleep measurements, hormonal profiles, and metabolic monitoring, thereby creating a bidirectional bridge between basic and clinical science.",
+        "Ultimately, I aspire to become a physician-scientist who uses insights derived from sleep research to understand the biological principles linking the brain and body. By integrating molecular mechanisms, neural circuits, physiology, behavior, and clinical phenotypes, I hope to establish a unified framework for understanding how biological states emerge, transition, and become disrupted in human disease."
+      ],
+      "piano_sections": [
+        {
+          "title": "Concerts",
+          "entries": [
+            {
+              "date": "2026",
+              "html": "Ceremonial Piano Performance at the Retirement Party of Professor Hiroaki Ida, Kurume University School of Medicine<br>Ceremonial Piano Performance at the Annual Reunion Party of Department of Radiology, Kurume University School of Medicine"
+            },
+            {
+              "date": "2025",
+              "html": "Charity Concert at LUTHERAN ICHIGAYA HALL (Donation to Maggie's Tokyo, an organization providing psychological/mental support to patients with cancer)"
+            },
+            {
+              "date": "2024",
+              "html": "Christmas Concert at the Univerisy of Tokyo Hospital"
+            },
+            {
+              "date": "2017",
+              "html": "Concert at a nursing home (グランケアあざみ野)"
+            },
+            {
+              "date": "2017",
+              "html": "Child aid Asia Charity Concert (piano)"
+            }
+          ]
+        },
+        {
+          "title": "Awards",
+          "entries": [
+            {
+              "date": "2021",
+              "html": "22th Chopin International Piano Competition in Asia Chopinist B category: Gold Prize"
+            },
+            {
+              "date": "2021",
+              "html": "15th Cecilia International Music Competition category piano undergraduate student : Highest rank"
+            },
+            {
+              "date": "2017",
+              "html": "18th Chopin International Piano Competition in Asia category for high school student: Silver Prize"
+            },
+            {
+              "date": "2016",
+              "html": "17th Chopin International Piano Competition in Asia category for junior high school student: Silver Prize"
+            },
+            {
+              "date": "2016",
+              "html": "17th Osaka International music competition category amateur superior course: 2nd place"
+            },
+            {
+              "date": "2015",
+              "html": "9th Yokohama International Music Competition category piano, junior high school student: Jury’s special award"
+            },
+            {
+              "date": "2014",
+              "html": "8th Yokohama International Music Competition category piano, junior high school student: 4th place"
+            },
+            {
+              "date": "2013",
+              "html": "23th Japan Classic Music Competition category piano, junior high school student (male): 5th place"
+            },
+            {
+              "date": "2009",
+              "html": "10th Chopin International Piano Competition in Asia category for 1st and 2nd grade elementary school student: Gold Prize"
+            },
+            {
+              "date": "2008",
+              "html": "PTNA Piano Competition grade B: Gold Prize"
+            }
+          ]
+        },
+        {
+          "title": "Master courses",
+          "entries": [
+            {
+              "date": "2023",
+              "html": "Master Courses at the Fryderyk Chopin University of Music in Poland, awarded the diploma (Prof. Bronisława Kawalla-Ryszka)"
+            },
+            {
+              "date": "2019",
+              "html": "Master Courses at the Fryderyk Chopin University of Music in Poland, awarded the diploma (Prof. Jerzy Romaniuk)"
+            },
+            {
+              "date": "2016",
+              "html": "Master Courses at the Fryderyk Chopin University of Music in Poland, awarded the diploma (Prof. Bronisława Kawalla-Ryszka)"
+            }
+          ]
+        }
+      ],
+      "name": "Tomohide R. Sato",
+      "role": "Physician-scientist / Pianist",
+      "bio": [
+        "I investigate emergent dynamics across biological systems, from sleep and brain states to disease physiology. Through clinical medicine, electrophysiology, and mathematical modeling, I explore how biological states are generated, maintained, and transformed.",
+        "I am currently a clinical resident at Kurume University Hospital, a PhD student in Systems Pharmacology at the Graduate School of Medicine, The University of Tokyo, and a Doctoral Fellow A at the Kurume University Institute of Molecular Life Science."
+      ],
+      "research_intro": "Understanding the principles of brain-state transitions through sleep, and connecting those insights to psychiatric and metabolic disorders. Sleep is both the focus of my research and a foundation for understanding the brain and body as an integrated system.",
+      "topics": [
+        {
+          "title": "Sleep & neuronal dynamics",
+          "text": "I use mathematical models of Na⁺ dynamics to study up–down neuronal firing and slow-wave oscillations. From single neurons to neural circuits, I investigate how sleep and wakefulness emerge across biological scales."
+        },
+        {
+          "title": "Brain states & psychiatry",
+          "text": "Building on sleep research, I aim to understand psychiatric disorders through the regulation of brain states. I am interested in connecting neuronal activity and circuit dynamics with the changes observed in clinical practice."
+        },
+        {
+          "title": "Metabolism & whole-body physiology",
+          "text": "I analyze CGM signals and treatment responses as time series to quantify changes in biological regulation. My aim is to understand sleep, mental health, and metabolism through their shared mechanisms of state regulation."
+        }
+      ],
+      "piano_intro": "I have played the piano since the age of four. Alongside my work as a physician, I continue to perform and occasionally have the opportunity to play on stage. I am interested in how music can contribute to medicine and to the people it serves.",
+      "lecture_intro": "A lecture for the “Frontiers of Business” course at Fukuoka International College of Music. From small changes in neurons to brain states, music, and human experience, I explore the connections among medicine, research, and music."
+    }
+  },
+  "publications": [
+    {
+      "year": "2026",
+      "title": "Successful use of LDL apheresis in cyclosporine-resistant nephrotic syndrome: a case report with mechanistic insights.",
+      "authors": "Sato TR, Chinami Hori, Yuusei Wada, Nakano Kaoru, Gou Kodama, Kensei Taguchi, Ryo Shibata, Kei Fukami.",
+      "journal": "Kidney International Reports",
+      "url": "https://www.kireports.org/article/S2468-0249(26)00543-7/fulltext"
+    },
+    {
+      "year": "2025",
+      "title": "A design principle for neuronal firing with up-down oscillation through Na⁺ dynamics.",
+      "authors": "Sato TR, Ode KL, Kinoshita FL, Ueda HR.",
+      "journal": "iScience",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(25)00164-6",
+      "press": "https://www.u-tokyo.ac.jp/content/400255946.pdf",
+      "code": "https://github.com/TomoRS-Med/Na_paper"
+    },
+    {
+      "year": "2025",
+      "title": "Sleep-related examinations.",
+      "title_ja": "睡眠医療関連検査.",
+      "authors": "Sato TR, Kishi A, Ode KL, Ueda HR.",
+      "authors_ja": "佐藤智英, 岸哲史, 大出晃士, 上田泰己.",
+      "journal": "Kensa to Gizyutu, August Special Issue (Igaku-Shoin)",
+      "journal_ja": "検査と技術 8月増刊号（医学書院）",
+      "url": "https://www.igaku-shoin.co.jp/journal/detail/41803"
+    }
+  ],
+  "links": {
+    "google_scholar": "https://scholar.google.com/citations?user=fdt5J1EAAAAJ",
+    "orcid": "https://orcid.org/0000-0002-4536-548X",
+    "researchmap": "https://researchmap.jp/TomoRS",
+    "researchgate": "https://www.researchgate.net/profile/Tomohide-Sato",
+    "github": "https://github.com/TomoRS-Med",
+    "facebook": "https://www.facebook.com/tomohide.satoh.12",
+    "x": "https://x.com/lordtomo2000",
+    "linkedin": "https://www.linkedin.com/in/tomohide-r-sato-abb153323/",
+    "cv": "https://drive.google.com/drive/folders/1Ug-aax3j0DKWfez2ohAVrhMFcND8u0jG?usp=sharing",
+    "youtube": "https://www.youtube.com/watch?v=6tgS6vIekGo"
+  }
+}
