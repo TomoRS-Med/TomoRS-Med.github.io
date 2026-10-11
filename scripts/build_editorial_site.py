@@ -19,11 +19,13 @@ TEXT = {
         "press": "Press release (Japanese)", "code": "Code",
         "conferences": "Academic presentations", "watch": "Watch the performance",
         "performance": "22nd Chopin International Piano Competition in Asia · Chopinist B · Gold Prize",
-        "read_lecture": "Read the lecture", "cv": "View curriculum vitae",
+        "read_lecture": "Read the lecture", "cv": "View career history", "cv_nav": "Background",
         "cv_note": "Education, research experience, clinical activities, and professional services.",
-        "cv_external": "Full CV on Google Drive", "back": "Back to the profile",
+        "cv_view": "View CV", "cv_download": "Download CV", "cv_open": "Open PDF in a new tab",
+        "cv_file_note": "Curriculum vitae · PDF", "cv_viewer_title": "Tomohide R. Sato’s curriculum vitae",
+        "back": "Back to the profile",
         "lecture_date": "July 2026 · Fukuoka International College of Music",
-        "top": "Back to top", "full_cv": "Curriculum vitae", "cv_subtitle": "Academic & clinical background",
+        "top": "Back to top", "full_cv": "Background", "cv_subtitle": "Academic & clinical background",
         "address": "For research, clinical, and music-related enquiries.",
     },
     "ja": {
@@ -34,9 +36,11 @@ TEXT = {
         "press": "プレスリリース", "code": "コード",
         "conferences": "学会発表一覧", "watch": "演奏動画を見る",
         "performance": "第22回ショパン国際ピアノコンクール in Asia · ショパニストB部門 · アジア大会金賞",
-        "read_lecture": "講演を読む", "cv": "詳しい経歴を見る",
+        "read_lecture": "講演を読む", "cv": "詳しい経歴を見る", "cv_nav": "経歴",
         "cv_note": "学歴・研究経験・臨床経験・資格・受賞歴・奨学金・専門的貢献活動。",
-        "cv_external": "Google DriveでCVを見る", "back": "プロフィールに戻る",
+        "cv_view": "CVを閲覧", "cv_download": "CVをダウンロード", "cv_open": "PDFを別タブで開く",
+        "cv_file_note": "CV（英語・PDF）", "cv_viewer_title": "佐藤智英のCV",
+        "back": "プロフィールに戻る",
         "lecture_date": "2026年7月 · 福岡国際音楽大学",
         "top": "ページの先頭へ", "full_cv": "経歴", "cv_subtitle": "Academic & clinical background",
         "address": "研究・医療・音楽に関するご連絡はこちらへ。",
@@ -76,7 +80,7 @@ def shell(lang, kind, title, body):
     alternate = path_for[kind](other)
     current_home = kind == "home"
     navigation = "".join(link(("" if current_home else home_path(lang)) + "#" + key, escape(t[key])) for key in ORDER)
-    navigation += link(cv_path(lang), "CV", "cv-nav" + (" is-active" if kind == "cv" else ""))
+    navigation += link(cv_path(lang), t["cv_nav"], "cv-nav" + (" is-active" if kind == "cv" else ""))
     identity = DATA["locales"][lang]
     description = "佐藤智英の公式サイト。睡眠・神経ダイナミクスの研究、臨床、ピアノ、講演。" if lang == "ja" else "Tomohide R. Sato. Physician-scientist studying sleep, brain-state transitions, and biological dynamics. Research, clinical work, piano, and lectures."
     lang_switch = f'<a class="language-switch" href="{alternate}" lang="{other}" hreflang="{other}" data-language-switch>{t["switch"]}</a>'
@@ -99,8 +103,8 @@ def shell(lang, kind, title, body):
   <meta property="og:url" content="{ORIGIN}{path}">
   <meta property="og:image" content="{ORIGIN}/assets/img/IMG_2824.jpeg">
   <meta property="og:locale" content="{'ja_JP' if lang == 'ja' else 'en_US'}">
-  <link rel="stylesheet" href="/assets/css/editorial.css?v=20261010">
-  <script src="/assets/js/editorial.js?v=20261010" defer></script>
+  <link rel="stylesheet" href="/assets/css/editorial.css?v=20261011">
+  <script src="/assets/js/editorial.js?v=20261011" defer></script>
 </head>
 <body id="top">
   <a class="skip-link" href="#main">{t['skip']}</a>
@@ -155,7 +159,8 @@ def home(lang):
     pub_links = link(LINKS['google_scholar'], 'Google Scholar ↗', 'text-link', True) + link(cv_path(lang) + '#cv-3' if lang == 'en' else cv_path(lang) + '#cv-1', t['conferences'] + ' →', 'text-link')
     body += section(lang, 'publications', '<ol class="publication-list">' + ''.join(publications) + f'</ol><p class="correspondence">{correspondence}</p><div class="inline-links">{pub_links}</div>')
     performances, awards, courses = d['piano_sections']
-    piano = f'<p class="lead piano-intro">{escape(d["piano_intro"])}</p><h3 class="small-heading">{escape(performances["title"])}</h3>{timeline(performances["entries"])}'
+    photo_alt = 'ホールでグランドピアノを演奏する佐藤智英' if lang == 'ja' else 'Tomohide R. Sato playing a grand piano in a concert hall'
+    piano = f'<p class="lead piano-intro">{escape(d["piano_intro"])}</p><figure class="piano-photo"><img src="/assets/img/IMG_8331.jpeg" alt="{photo_alt}" width="1512" height="2048" loading="lazy" decoding="async"></figure><h3 class="small-heading">{escape(performances["title"])}</h3>{timeline(performances["entries"])}'
     for s in [awards, courses]:
         piano += f'<details class="reading-details"><summary>{escape(s["title"])}<span aria-hidden="true">+</span></summary>{timeline(s["entries"])}</details>'
     piano += f'<div class="performance-link">{link(LINKS["youtube"], t["watch"] + " ↗", "text-link", True)}<p>{escape(t["performance"])}</p></div>'
@@ -163,7 +168,7 @@ def home(lang):
     lecture_image = '1a.jpeg' if lang == 'ja' else '1a_en.jpeg'
     lecture = f'<a class="lecture-image" href="{lecture_path(lang)}" aria-label="{t["read_lecture"]}"><img src="/assets/img/{lecture_image}" alt="From Brain Whisper to Human Experience" width="1920" height="1080" loading="lazy" decoding="async"></a><p class="eyebrow">{escape(t["lecture_date"])}</p><h3 class="lecture-title">From Brain Whisper<br>to Human Experience</h3><p>{escape(d["lecture_intro"])}</p>{link(lecture_path(lang), t["read_lecture"] + " →", "text-link")}'
     body += section(lang, 'lecture', lecture)
-    body += f'<aside class="cv-banner"><p><span>Curriculum vitae</span>{escape(t["cv_note"])}</p>{link(cv_path(lang), t["cv"] + " →", "text-link")}</aside>'
+    body += f'<aside class="cv-banner"><p><span>{t["cv_nav"]}</span>{escape(t["cv_note"])}</p>{link(cv_path(lang), t["cv"] + " →", "text-link")}</aside>'
     contact = f'<p>{escape(t["address"])}</p><div class="email-links">{link("mailto:chopinist@g.ecc.u-tokyo.ac.jp", "chopinist@g.ecc.u-tokyo.ac.jp")}{link("mailto:amadeusk31025@gmail.com", "amadeusk31025@gmail.com")}</div>'
     body += section(lang, 'contact', contact)
     body += '</div>'
@@ -172,9 +177,20 @@ def home(lang):
 
 def cv(lang):
     d, t = DATA['locales'][lang], TEXT[lang]
-    external = link(LINKS['cv'], t['cv_external'] + ' ↗', 'text-link', True) if lang == 'en' else ''
+    pdf = escape(LINKS['cv'], quote=True)
+    document = f'''<div class="cv-file">
+      <p class="cv-file-note">{t['cv_file_note']}</p>
+      <div class="cv-file-actions">
+        <a class="document-button cv-view-button" href="{pdf}" data-cv-view><span>{t['cv_view']}</span><span class="document-toggle" aria-hidden="true">+</span></a>
+        <a class="document-button" href="{pdf}" download="Tomohide_R_Sato.pdf">{t['cv_download']} <span aria-hidden="true">↓</span></a>
+      </div>
+      <div id="cv-document" class="cv-viewer" hidden>
+        <iframe data-src="{pdf}" title="{t['cv_viewer_title']}"></iframe>
+        <p>{link(LINKS['cv'], t['cv_open'] + ' ↗', 'text-link', True)}</p>
+      </div>
+    </div>'''
     toc = ''.join(link('#cv-' + str(i), escape(s['title'])) for i, s in enumerate(d['cv']))
-    body = f'<div class="wrap cv-page"><div class="page-heading"><p class="eyebrow">Tomohide R. Sato / 佐藤智英</p><h1>{t["full_cv"]}</h1><p class="page-subtitle">{t["cv_subtitle"]}</p>{external}</div><nav class="cv-toc" aria-label="{"経歴の目次" if lang == "ja" else "CV contents"}">{toc}</nav>'
+    body = f'<div class="wrap cv-page"><div class="page-heading"><p class="eyebrow">Tomohide R. Sato / 佐藤智英</p><h1>{t["full_cv"]}</h1><p class="page-subtitle">{t["cv_subtitle"]}</p>{document}</div><nav class="cv-toc" aria-label="{"経歴の目次" if lang == "ja" else "Background contents"}">{toc}</nav>'
     for i, s in enumerate(d['cv']):
         body += f'<section id="cv-{i}" class="cv-section" aria-labelledby="cv-heading-{i}"><h2 id="cv-heading-{i}">{escape(s["title"])}</h2>{timeline(s["entries"])}</section>'
     body += f'<div class="return-link">{link(home_path(lang), t["back"] + " →", "text-link")}</div></div>'

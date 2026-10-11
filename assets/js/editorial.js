@@ -27,6 +27,30 @@
   window.addEventListener('resize', () => {
     if (window.innerWidth > 900) closeMenu();
   });
+  const cvView = document.querySelector('[data-cv-view]');
+  const cvDocument = document.getElementById('cv-document');
+  if (cvView && cvDocument) {
+    cvView.setAttribute('role', 'button');
+    cvView.setAttribute('aria-controls', cvDocument.id);
+    cvView.setAttribute('aria-expanded', 'false');
+    cvView.addEventListener('click', (event) => {
+      if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      const open = cvView.getAttribute('aria-expanded') !== 'true';
+      if (open) {
+        const frame = cvDocument.querySelector('iframe');
+        if (!frame.hasAttribute('src')) frame.setAttribute('src', frame.dataset.src);
+      }
+      cvDocument.hidden = !open;
+      cvView.setAttribute('aria-expanded', String(open));
+    });
+    cvView.addEventListener('keydown', (event) => {
+      if (event.key === ' ') {
+        event.preventDefault();
+        cvView.click();
+      }
+    });
+  }
   const switcher = document.querySelector('[data-language-switch]');
   const alternate = switcher.getAttribute('href');
   const homeAnchors = ['about', 'research', 'publications', 'piano', 'lecture', 'contact'];

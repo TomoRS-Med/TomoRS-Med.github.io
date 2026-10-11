@@ -214,7 +214,7 @@
       "research_full": [
         "私は、睡眠を通して脳状態遷移の原理を理解し、その知見を精神疾患および代謝疾患の理解へと発展させることを目指しています。臨床医学と数理モデルを融合し、多階層にわたる生体ダイナミクスを定量的に記述することで、脳と身体を統合する生理学的原理の解明に取り組んでいます。",
         "現在、久留米大学病院にて臨床研修を行うとともに、東京大学大学院医学系研究科においてシステムズ薬理学を専攻し、久留米大学分子生命科学研究所にてシステム生物学的研究に従事しています。研究の主軸は睡眠および神経活動の数理モデルであり、神経細胞の発火パターンやイオンダイナミクスに基づいて、睡眠・覚醒といった脳状態がどのように生成され、維持され、遷移するのかを明らかにしようとしています。",
-        "睡眠研究は私にとって目的であると同時に手段でもあります。睡眠は神経活動と行動、生理機能の関係を定量的に観察できる数少ない生体現象であり、脳状態遷移の原理を探究するための理想的なモデル系です。私は睡眠から得られた知見を基盤として、精神疾患の背景にある脳状態、ひいては生体状態制御の原理を明らかにしたいと考えています。",
+        "睡眠研究は、研究のターゲットであると同時に、生体の時間変化を考えるための基盤でもあります。睡眠は神経活動と行動、生理機能の関係を定量的に観察できる数少ない生体現象であり、脳状態遷移の原理を探究するための理想的なモデル系です。私は睡眠から得られた知見を基盤として、精神疾患の背景にある脳状態、ひいては生体状態制御の原理を明らかにしたいと考えています。",
         "睡眠研究では、Na⁺ダイナミクスに着目し、神経細胞のup–down発火パターンやslow-wave oscillationを再現する数理モデルを構築してきました。睡眠を単なる状態分類としてではなく、神経活動、膜電位、イオン濃度、回路結合の相互作用から創発される動的状態として捉えています。また近年は、単一細胞レベルの現象から神経回路全体のダイナミクスへと研究対象を拡張し、脳状態遷移を多階層的に理解することを目指しています。",
         "精神疾患の多くは睡眠異常と深く関連しています。うつ病、双極症、統合失調症などでは睡眠構造や神経活動パターンの変化が認められますが、その背景にある脳ダイナミクスは十分には理解されていません。私は睡眠研究で得られた知見を基盤として、精神疾患を脳状態遷移の異常として捉え直し、神経活動や回路ダイナミクスの観点から理解することを目指しています。症候学的分類にとどまらず、脳状態制御機構の破綻として精神疾患を理解することが、より本質的な病態理解につながると考えています。",
         "一方で、脳状態の変化は精神機能だけでなく、身体の恒常性維持にも大きな影響を及ぼします。睡眠と覚醒の状態は、自律神経系や内分泌系を介してエネルギー代謝や糖代謝を調節しており、脳と身体は密接に結びついた一つの制御システムとして機能しています。私は、睡眠や精神機能を脳内に閉じた現象としてではなく、全身の生理状態を規定するシステムの一部として理解したいと考えています。",
@@ -319,7 +319,7 @@
         "睡眠や脳状態から疾患の生理まで、生体システムに創発するダイナミクスを研究しています。臨床医学、電気生理学、数理モデルを通して、生命がどのように状態を生み、維持し、変化させるのかを探究しています。",
         "現在は久留米大学病院の臨床研修医として診療に携わりながら、東京大学大学院医学系研究科・システムズ薬理学教室で博士課程に在籍し、久留米大学分子生命科学研究所でドクトラルフェローAとして研究を続けています。"
       ],
-      "research_intro": "睡眠を通して脳状態遷移の原理を理解し、その知見を精神疾患と代謝疾患の理解へつなげる。睡眠研究は、私にとって目的であると同時に、脳と身体を統合して考えるための基盤でもあります。",
+      "research_intro": "睡眠を通して脳状態遷移の原理を理解し、その知見を精神疾患と代謝疾患の理解へつなげる。睡眠研究は、研究のターゲットであると同時に、生体の時間変化を考えるための基盤でもあります。",
       "topics": [
         {
           "title": "睡眠と神経ダイナミクス",
@@ -539,7 +539,7 @@
       "research_full": [
         "My long-term goal is to understand the principles governing brain-state transitions and to apply these insights to psychiatric and metabolic disorders. By integrating clinical medicine, electrophysiology, and mathematical modeling, I seek to establish a quantitative framework that links neural dynamics, physiology, and disease.",
         "I am currently a clinical resident at Kurume University Hospital while pursuing doctoral training in Systems Pharmacology at the Graduate School of Medicine, The University of Tokyo, and conducting research in systems biology at the Kurume University Institute of Molecular Life Science. My primary research focuses on mathematical modeling of sleep and neuronal dynamics. In particular, I investigate how brain states such as sleep and wakefulness are generated, maintained, and transitioned through interactions among neuronal firing patterns, ion dynamics, membrane excitability, and network connectivity.",
-        "Sleep research is both the goal and the methodological foundation of my scientific career. Sleep is one of the few biological phenomena in which neural activity, behavior, and physiological regulation can be quantitatively observed across multiple scales. For this reason, I regard sleep as an ideal model system for studying the fundamental principles of brain-state transitions. My aim is not only to understand sleep itself, but also to use sleep as a window into broader mechanisms governing brain function and disease.",
+        "Sleep is both a research target and a foundation for understanding how biological systems change over time. Sleep is one of the few biological phenomena in which neural activity, behavior, and physiological regulation can be quantitatively observed across multiple scales. For this reason, I regard sleep as an ideal model system for studying the fundamental principles of brain-state transitions. My aim is not only to understand sleep itself, but also to use sleep as a window into broader mechanisms governing brain function and disease.",
         "In my work on sleep and neuronal dynamics, I have developed mathematical models focusing on Na⁺ dynamics to describe up–down firing patterns and slow-wave oscillations. Rather than treating sleep as a static behavioral or electrophysiological category, I conceptualize it as a dynamic state emerging from interactions among neuronal activity, membrane potentials, ionic concentrations, and neural circuits. More recently, my work has expanded from single-neuron dynamics toward network-level mechanisms underlying state transitions in the sleeping brain.",
         "A major motivation for this work is its relevance to psychiatry. Many psychiatric disorders, including major depression, bipolar disorder, and schizophrenia, are closely associated with abnormalities in sleep architecture and neural activity. However, the dynamical principles linking these phenomena remain poorly understood. I hope to use insights gained from sleep research to reinterpret psychiatric disorders as disorders of brain-state regulation. By studying how neural systems transition between stable and unstable states, I aim to contribute to a mechanistic understanding of psychiatric disease grounded in neural dynamics rather than symptom-based classification alone.",
         "Changes in brain states also extend beyond mental function and profoundly influence physiological homeostasis throughout the body. Sleep and wakefulness regulate energy balance and glucose metabolism through interactions with autonomic, endocrine, and metabolic systems. From this perspective, the brain and body do not operate as separate entities, but as components of an integrated regulatory network. I therefore seek to understand sleep and psychiatric function not as isolated cerebral phenomena, but as processes embedded within whole-body physiology.",
@@ -645,7 +645,7 @@
         "I investigate emergent dynamics across biological systems, from sleep and brain states to disease physiology. Through clinical medicine, electrophysiology, and mathematical modeling, I explore how biological states are generated, maintained, and transformed.",
         "I am currently a clinical resident at Kurume University Hospital, a PhD student in Systems Pharmacology at the Graduate School of Medicine, The University of Tokyo, and a Doctoral Fellow A at the Kurume University Institute of Molecular Life Science."
       ],
-      "research_intro": "Understanding the principles of brain-state transitions through sleep, and connecting those insights to psychiatric and metabolic disorders. Sleep is both the focus of my research and a foundation for understanding the brain and body as an integrated system.",
+      "research_intro": "Understanding the principles of brain-state transitions through sleep, and connecting those insights to psychiatric and metabolic disorders. Sleep is both a research target and a foundation for understanding how biological systems change over time.",
       "topics": [
         {
           "title": "Sleep & neuronal dynamics",
@@ -701,7 +701,7 @@
     "facebook": "https://www.facebook.com/tomohide.satoh.12",
     "x": "https://x.com/lordtomo2000",
     "linkedin": "https://www.linkedin.com/in/tomohide-r-sato-abb153323/",
-    "cv": "https://drive.google.com/drive/folders/1Ug-aax3j0DKWfez2ohAVrhMFcND8u0jG?usp=sharing",
+    "cv": "/assets/documents/Tomohide_R_Sato.pdf",
     "youtube": "https://www.youtube.com/watch?v=6tgS6vIekGo"
   }
 }
