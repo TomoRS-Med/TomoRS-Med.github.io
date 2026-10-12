@@ -89,7 +89,9 @@ def main():
         p.add_run("\n    " + title + "\n    Japanese title: " + original_title)
     for node in doc.element.xpath("//w:t"):
         if node.text:
-            node.text = node.text.replace("June 3, 2026", VERSION).replace(" (scheduled/listed on source page)", "")
+            node.text = (node.text.replace("June 3, 2026", VERSION)
+                         .replace(" (scheduled/listed on source page)", "")
+                         .replace("Accepted Items Listed on Source Pages", "Accepted Items"))
     for style in doc.styles:
         if style.type == 1:
             font(style.element.get_or_add_rPr())
