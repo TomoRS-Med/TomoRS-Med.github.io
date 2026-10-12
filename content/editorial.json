@@ -31,6 +31,10 @@
           "title": "学会発表",
           "entries": [
             {
+              "date": "2026年 12月12日",
+              "html": "<a href=\"https://sites.google.com/fukuoka-u.ac.jp/biochem1/\" target=\"_blank\" rel=\"noopener noreferrer\">第30回日本バイオ治療法学会学術集会</a>（発表予定）<br>PTTMを来した乳癌症例に対する治療法の検討<br>Evaluation of Treatment Options for a Breast Cancer Case Complicated by Pulmonary Tumor Thrombotic Microangiopathy (PTTM)"
+            },
+            {
               "date": "2026年 9月",
               "html": "第24回日本乳癌学会九州地方会<br>乳癌術後26年を経て腋窩腫瘍を認め,乳癌再発と鑑別を要した一例<br>Case Report: An Axillary Tumor Detected 26 Years After Breast Cancer Surgery, Requiring Differentiation from Breast Cancer Recurrence"
             },
@@ -402,6 +406,10 @@
           "title": "Academic conferences",
           "entries": [
             {
+              "date": "2026 Dec 12",
+              "html": "<a href=\"https://sites.google.com/fukuoka-u.ac.jp/biochem1/\" target=\"_blank\" rel=\"noopener noreferrer\">30th Annual Meeting of the Society of Biotherapeutic Approaches</a> (scheduled presentation)<br>Evaluation of Treatment Options for a Breast Cancer Case Complicated by Pulmonary Tumor Thrombotic Microangiopathy (PTTM)"
+            },
+            {
               "date": "2026 Sep",
               "html": "24th Kyushu Regional Meeting of the Japanese Breast Cancer Society<br>Case Report: An Axillary Tumor Detected 26 Years After Breast Cancer Surgery, Requiring Differentiation from Breast Cancer Recurrence"
             },
@@ -701,7 +709,7 @@
     "facebook": "https://www.facebook.com/tomohide.satoh.12",
     "x": "https://x.com/lordtomo2000",
     "linkedin": "https://www.linkedin.com/in/tomohide-r-sato-abb153323/",
-    "cv": "/assets/documents/Tomohide_R_Sato.pdf",
+    "cv": "/assets/documents/Tomohide_R_Sato.pdf?v=20261012",
     "youtube": "https://www.youtube.com/watch?v=6tgS6vIekGo"
   }
 }
