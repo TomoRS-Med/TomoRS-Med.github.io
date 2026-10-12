@@ -103,7 +103,7 @@ def shell(lang, kind, title, body):
   <meta property="og:url" content="{ORIGIN}{path}">
   <meta property="og:image" content="{ORIGIN}/assets/img/IMG_2824.jpeg">
   <meta property="og:locale" content="{'ja_JP' if lang == 'ja' else 'en_US'}">
-  <link rel="stylesheet" href="/assets/css/editorial.css?v=20261011">
+  <link rel="stylesheet" href="/assets/css/editorial.css?v=20261012">
   <script src="/assets/js/editorial.js?v=20261011" defer></script>
 </head>
 <body id="top">

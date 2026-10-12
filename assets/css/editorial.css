@@ -69,8 +69,8 @@ img { display: block; max-width: 100%; height: auto; }
 .publication .inline-links { margin-top: 15px; gap: 8px 22px; }
 .correspondence { color: var(--muted); font-size: 11px; margin-top: 24px; }
 .piano-intro { margin-bottom: 42px; }
-.piano-photo { width: min(100%, 560px); margin-bottom: 42px; }
-.piano-photo img { width: 100%; height: auto; }
+.piano-photo { position: relative; width: min(100%, 560px); aspect-ratio: 7 / 8; overflow: hidden; margin-bottom: 42px; }
+.piano-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center bottom; transform: scale(1.102); transform-origin: center bottom; }
 .small-heading { font: 400 21px/1.5 var(--serif); margin-bottom: 16px; }
 .timeline { margin: 0; padding: 0; }
 .timeline-row { display: grid; grid-template-columns: 115px minmax(0,1fr); column-gap: 22px; padding-block: 17px; border-bottom: 1px solid var(--line); }
