@@ -30,6 +30,7 @@ Dockerfile text eol=lf
 
 # General multimedia files
 *.pdf binary
+*.docx binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
