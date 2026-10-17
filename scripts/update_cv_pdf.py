@@ -23,7 +23,7 @@ from docx.enum.text import WD_LINE_SPACING
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT.parent / "tmp/cv-word-rebuilt"
 OUTPUT = ROOT.parent / "output/pdf/Tomohide_R_Sato.pdf"
-VERSION = "October 12, 2026"
+VERSION = "October 17, 2026"
 LATIN = "Liberation Serif"
 JAPANESE = "Noto Serif CJK JP"
 BODY_SIZE = 9.5
@@ -137,6 +137,13 @@ def main():
             for node in p._p.xpath(".//w:t"):
                 node.text = node.text.replace("June 3, 2026", VERSION)
             format_paragraph(p, 8, 10, after=0)
+    # Keep the public CV's typography black, including inherited theme colors.
+    for properties in list(doc.element.xpath("//w:rPr")) + list(doc.styles.element.xpath("//w:rPr")):
+        for color in properties.findall(qn("w:color")):
+            properties.remove(color)
+        color = OxmlElement("w:color")
+        color.set(qn("w:val"), "000000")
+        properties.append(color)
     doc.core_properties.title = "Curriculum Vitae - Tomohide R. Sato"
     doc.core_properties.subject = "Curriculum vitae"
     working_docx = WORK / "Tomohide_R_Sato.docx"
