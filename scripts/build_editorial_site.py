@@ -12,7 +12,7 @@ LINKS = DATA["links"]
 ORDER = ("about", "research", "publications", "piano", "lecture", "contact")
 TEXT = {
     "en": {
-        "about": "About", "research": "Research", "publications": "Publications", "manuscripts": "Manuscripts",
+        "about": "About", "research": "Research", "publications": "Publications", "manuscripts": "Submitted Manuscripts",
         "piano": "Piano", "lecture": "Lecture", "contact": "Contact",
         "skip": "Skip to content", "menu": "Menu", "switch": "日本語",
         "statement": "Read the full research statement", "article": "Article",
@@ -29,7 +29,7 @@ TEXT = {
         "address": "For research, clinical, and music-related enquiries.",
     },
     "ja": {
-        "about": "プロフィール", "research": "研究", "publications": "論文", "manuscripts": "未公刊原稿",
+        "about": "プロフィール", "research": "研究", "publications": "論文", "manuscripts": "投稿済み論文",
         "piano": "ピアノ", "lecture": "講演", "contact": "お問い合わせ",
         "skip": "本文へ移動", "menu": "メニュー", "switch": "English",
         "statement": "研究についての全文を読む", "article": "論文",
@@ -149,15 +149,20 @@ def publication_list(lang):
 
 
 def manuscript_heading(lang):
-    return '未公刊原稿' if lang == 'ja' else 'Manuscripts'
+    return '投稿済み論文' if lang == 'ja' else 'Submitted Manuscripts'
 
 
 def manuscript_list(lang):
     entries = []
     for manuscript in DATA.get('manuscripts', []):
         status = manuscript.get('status_ja', manuscript['status']) if lang == 'ja' else manuscript['status']
-        entries.append(f'<li><p><strong>{escape(manuscript["title"])}</strong><br>{escape(manuscript["authors"])} {escape(status)}</p></li>')
-    return '<ul class="manuscript-list">' + ''.join(entries) + '</ul>'
+        authors = manuscript["authors"]
+        if manuscript.get("corresponding_author"):
+            author = manuscript["corresponding_author"]
+            authors = authors.replace(author, author + '†', 1)
+        entries.append(f'<li class="publication"><time datetime="{manuscript["year"]}">{manuscript["year"]}</time><div><h3>{escape(manuscript["title"])}</h3><p class="publication-authors">{escape(authors)}</p><p class="publication-journal">{escape(status)}</p></div></li>')
+    note = ('† 責任著者' if lang == 'ja' else '† Corresponding author') if any(m.get('corresponding_author') for m in DATA.get('manuscripts', [])) else ''
+    return '<ol class="publication-list manuscript-list">' + ''.join(entries) + '</ol>' + (f'<p class="correspondence">{note}</p>' if note else '')
 
 
 def home(lang):
@@ -208,13 +213,16 @@ def cv(lang):
       </div>
     </div>'''
     conference_title = '学会発表' if lang == 'ja' else 'Academic conferences'
+    # Match the Japanese section order while preserving existing anchor IDs.
+    order = [0, 3, 4, 6, 2, 1, 5, 7] if lang == 'en' else range(len(d['cv']))
+    sections = [(i, d['cv'][i]) for i in order]
     toc = ''
-    for i, s in enumerate(d['cv']):
+    for i, s in sections:
         if s['title'] == conference_title:
             toc += link('#cv-publications', t['publications'])
         toc += link('#cv-' + str(i), escape(s['title']))
     body = f'<div class="wrap cv-page"><div class="page-heading"><p class="eyebrow">Tomohide R. Sato / 佐藤智英</p><h1>{t["full_cv"]}</h1><p class="page-subtitle">{t["cv_subtitle"]}</p>{document}</div><nav class="cv-toc" aria-label="{"経歴の目次" if lang == "ja" else "Background contents"}">{toc}</nav>'
-    for i, s in enumerate(d['cv']):
+    for i, s in sections:
         if s['title'] == conference_title:
             correspondence = '† 責任著者' if lang == 'ja' else '† Corresponding author'
             content = publication_list(lang) + f'<p class="correspondence">{correspondence}</p><h3 id="cv-manuscripts" class="small-heading">{manuscript_heading(lang)}</h3>' + manuscript_list(lang)

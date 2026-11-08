@@ -79,11 +79,17 @@ def main():
             p._p.getparent().remove(p._p)
     manuscript_anchor = next(p for p in doc.paragraphs if p.text == "Academic Conference Presentations")
     if data.get("manuscripts"):
-        manuscript_anchor.insert_paragraph_before("Manuscripts", style="Heading 2")
+        manuscript_anchor.insert_paragraph_before("Submitted Manuscripts", style="Heading 2")
         for manuscript in data["manuscripts"]:
             p = manuscript_anchor.insert_paragraph_before(style="CV Entry")
-            p.add_run(manuscript["title"]).bold = True
-            p.add_run("\n" + manuscript["authors"] + " " + manuscript["status"])
+            p.add_run(str(manuscript["year"])).bold = True
+            authors = manuscript["authors"]
+            note = ""
+            if manuscript.get("corresponding_author"):
+                author = manuscript["corresponding_author"]
+                authors = authors.replace(author, author + "†", 1)
+                note = " † Correspondence."
+            p.add_run('  ' + authors + ' "' + manuscript["title"] + '" ' + manuscript["status"] + note)
     anchor = next(p for p in doc.paragraphs if p.text.startswith("2026 Mar") and "World Congress" in p.text)
     for english, japanese in zip(en[:3], ja[:3], strict=True):
         p = Paragraph(OxmlElement("w:p"), anchor._parent)
