@@ -706,7 +706,15 @@
     "facebook": "https://www.facebook.com/tomohide.satoh.12",
     "x": "https://x.com/lordtomo2000",
     "linkedin": "https://www.linkedin.com/in/tomohide-r-sato-abb153323/",
-    "cv": "/assets/documents/Tomohide_R_Sato.pdf?v=20261017-3",
+    "cv": "/assets/documents/Tomohide_R_Sato.pdf?v=20261108",
     "youtube": "https://www.youtube.com/watch?v=6tgS6vIekGo"
-  }
+  },
+  "manuscripts": [
+    {
+      "title": "From Serial Endoscopic Polypectomy to Total Gastrectomy for Diffuse Gastric Polyposis in SMAD4-Related Juvenile Polyposis Syndrome: A Longitudinal Case Report.",
+      "authors": "Sato TR, Fukunaga S, Isobe T, Tanaka Y, Kaku H, Takedatsu H, Koga H, Kawaguchi T.",
+      "status": "Submitted.",
+      "status_ja": "投稿済み。"
+    }
+  ]
 }

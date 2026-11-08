@@ -53,7 +53,7 @@
   }
   const switcher = document.querySelector('[data-language-switch]');
   const alternate = switcher.getAttribute('href');
-  const homeAnchors = ['about', 'research', 'publications', 'piano', 'lecture', 'contact'];
+  const homeAnchors = ['about', 'research', 'publications', 'manuscripts', 'piano', 'lecture', 'contact'];
   function syncLanguageLink() {
     const anchor = window.location.hash.slice(1);
     const page = document.documentElement.dataset.page;
@@ -85,7 +85,8 @@
       ? homeAnchors.map((id) => document.getElementById(id))
       : [...document.querySelectorAll('.lecture-slide[id]')];
     const threshold = Math.max(120, window.innerHeight * 0.2);
-    const current = nodes.filter((node) => node && node.getBoundingClientRect().top <= threshold).pop();
+    const scrollPadding = parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop) || 0;
+    const current = nodes.filter((node) => node && node.getBoundingClientRect().top <= Math.max(threshold, scrollPadding + (parseFloat(getComputedStyle(node).scrollMarginTop) || 0) + 1)).pop();
     switcher.setAttribute('href', alternate + (current ? '#' + current.id : ''));
   });
 })();

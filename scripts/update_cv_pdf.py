@@ -23,7 +23,7 @@ from docx.enum.text import WD_LINE_SPACING
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT.parent / "tmp/cv-word-rebuilt"
 OUTPUT = ROOT.parent / "output/pdf/Tomohide_R_Sato.pdf"
-VERSION = "October 17, 2026"
+VERSION = "November 8, 2026"
 LATIN = "Liberation Serif"
 JAPANESE = "Noto Serif CJK JP"
 BODY_SIZE = 9.5
@@ -77,6 +77,13 @@ def main():
     for p in list(doc.paragraphs):
         if "Publication-related links:" in "".join(p._p.xpath(".//w:t/text()")):
             p._p.getparent().remove(p._p)
+    manuscript_anchor = next(p for p in doc.paragraphs if p.text == "Academic Conference Presentations")
+    if data.get("manuscripts"):
+        manuscript_anchor.insert_paragraph_before("Manuscripts", style="Heading 2")
+        for manuscript in data["manuscripts"]:
+            p = manuscript_anchor.insert_paragraph_before(style="CV Entry")
+            p.add_run(manuscript["title"]).bold = True
+            p.add_run("\n" + manuscript["authors"] + " " + manuscript["status"])
     anchor = next(p for p in doc.paragraphs if p.text.startswith("2026 Mar") and "World Congress" in p.text)
     for english, japanese in zip(en[:3], ja[:3], strict=True):
         p = Paragraph(OxmlElement("w:p"), anchor._parent)
@@ -169,7 +176,10 @@ def main():
 </fontconfig>''')
     env = dict(os.environ, FONTCONFIG_FILE=str(config))
     render_dir = WORK / "render"
-    subprocess.run([sys.executable, "/root/.codex/skills/builtins/documents/render_docx.py", str(working_docx),
+    renderer = Path(os.environ.get("CODEX_DOCX_RENDERER", "/root/.codex/skills/builtins/documents/render_docx.py"))
+    if not renderer.exists():
+        renderer = runtime / "plugins/openai-primary-runtime/plugins/documents/skills/documents/render_docx.py"
+    subprocess.run([sys.executable, str(renderer), str(working_docx),
                     "--output_dir", str(render_dir), "--emit_pdf"], check=True, env=env)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(render_dir / "Tomohide_R_Sato.pdf", OUTPUT)

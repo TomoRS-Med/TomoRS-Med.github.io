@@ -12,7 +12,7 @@ LINKS = DATA["links"]
 ORDER = ("about", "research", "publications", "piano", "lecture", "contact")
 TEXT = {
     "en": {
-        "about": "About", "research": "Research", "publications": "Publications",
+        "about": "About", "research": "Research", "publications": "Publications", "manuscripts": "Manuscripts",
         "piano": "Piano", "lecture": "Lecture", "contact": "Contact",
         "skip": "Skip to content", "menu": "Menu", "switch": "日本語",
         "statement": "Read the full research statement", "article": "Article",
@@ -29,7 +29,7 @@ TEXT = {
         "address": "For research, clinical, and music-related enquiries.",
     },
     "ja": {
-        "about": "プロフィール", "research": "研究", "publications": "論文",
+        "about": "プロフィール", "research": "研究", "publications": "論文", "manuscripts": "未公刊原稿",
         "piano": "ピアノ", "lecture": "講演", "contact": "お問い合わせ",
         "skip": "本文へ移動", "menu": "メニュー", "switch": "English",
         "statement": "研究についての全文を読む", "article": "論文",
@@ -103,8 +103,8 @@ def shell(lang, kind, title, body):
   <meta property="og:url" content="{ORIGIN}{path}">
   <meta property="og:image" content="{ORIGIN}/assets/img/IMG_2824.jpeg">
   <meta property="og:locale" content="{'ja_JP' if lang == 'ja' else 'en_US'}">
-  <link rel="stylesheet" href="/assets/css/editorial.css?v=20261012">
-  <script src="/assets/js/editorial.js?v=20261011" defer></script>
+  <link rel="stylesheet" href="/assets/css/editorial.css?v=20261108">
+  <script src="/assets/js/editorial.js?v=20261108" defer></script>
 </head>
 <body id="top">
   <a class="skip-link" href="#main">{t['skip']}</a>
@@ -135,6 +135,31 @@ def section(lang, key, content, cls=""):
     return f'<section id="{key}" class="editorial-section {cls}" aria-labelledby="heading-{key}"><div class="section-label"><h2 id="heading-{key}">{TEXT[lang][key]}</h2></div><div class="section-content">{content}</div></section>'
 
 
+def publication_list(lang):
+    t = TEXT[lang]
+    publications = []
+    for p in DATA["publications"]:
+        title, authors, journal = [p.get(k + '_ja', p[k]) if lang == 'ja' else p[k] for k in ['title', 'authors', 'journal']]
+        actions = [link(p['url'], t['article'] + ' ↗', 'text-link', True)]
+        for k in ['press', 'code']:
+            if k in p:
+                actions.append(link(p[k], t[k] + ' ↗', 'text-link', True))
+        publications.append(f'<li class="publication"><time datetime="{p["year"]}">{p["year"]}</time><div><h3>{escape(title)}</h3><p class="publication-authors">{escape(authors.rstrip("."))}†.</p><p class="publication-journal">{escape(journal)} · {p["year"]}</p><div class="inline-links">{"".join(actions)}</div></div></li>')
+    return '<ol class="publication-list">' + ''.join(publications) + '</ol>'
+
+
+def manuscript_heading(lang):
+    return '未公刊原稿' if lang == 'ja' else 'Manuscripts'
+
+
+def manuscript_list(lang):
+    entries = []
+    for manuscript in DATA.get('manuscripts', []):
+        status = manuscript.get('status_ja', manuscript['status']) if lang == 'ja' else manuscript['status']
+        entries.append(f'<li><p><strong>{escape(manuscript["title"])}</strong><br>{escape(manuscript["authors"])} {escape(status)}</p></li>')
+    return '<ul class="manuscript-list">' + ''.join(entries) + '</ul>'
+
+
 def home(lang):
     d, t = DATA["locales"][lang], TEXT[lang]
     role = d['role']
@@ -147,17 +172,10 @@ def home(lang):
     topics = "".join(f'<div class="research-topic"><h3>{escape(x["title"])}</h3><p>{escape(x["text"])}</p></div>' for x in d['topics'])
     full = "".join(f'<p>{p}</p>' for p in d['research_full'])
     body += section(lang, 'research', f'<p class="lead">{escape(d["research_intro"])}</p><div class="research-topics">{topics}</div><details class="reading-details"><summary>{t["statement"]}<span aria-hidden="true">+</span></summary><div class="full-statement">{full}</div></details>')
-    publications = []
-    for p in DATA["publications"]:
-        title, authors, journal = [p.get(k + '_ja', p[k]) if lang == 'ja' else p[k] for k in ['title', 'authors', 'journal']]
-        actions = [link(p['url'], t['article'] + ' ↗', 'text-link', True)]
-        for k in ['press', 'code']:
-            if k in p:
-                actions.append(link(p[k], t[k] + ' ↗', 'text-link', True))
-        publications.append(f'<li class="publication"><time datetime="{p["year"]}">{p["year"]}</time><div><h3>{escape(title)}</h3><p class="publication-authors">{escape(authors.rstrip("."))}†.</p><p class="publication-journal">{escape(journal)} · {p["year"]}</p><div class="inline-links">{"".join(actions)}</div></div></li>')
     correspondence = '† 責任著者' if lang == 'ja' else '† Corresponding author'
     pub_links = link(LINKS['google_scholar'], 'Google Scholar ↗', 'text-link', True) + link(cv_path(lang) + '#cv-3' if lang == 'en' else cv_path(lang) + '#cv-1', t['conferences'] + ' →', 'text-link')
-    body += section(lang, 'publications', '<ol class="publication-list">' + ''.join(publications) + f'</ol><p class="correspondence">{correspondence}</p><div class="inline-links">{pub_links}</div>')
+    body += section(lang, 'publications', publication_list(lang) + f'<p class="correspondence">{correspondence}</p><div class="inline-links">{pub_links}</div>')
+    body += section(lang, 'manuscripts', manuscript_list(lang))
     performances, awards, courses = d['piano_sections']
     photo_alt = 'ホールでグランドピアノを演奏する佐藤智英' if lang == 'ja' else 'Tomohide R. Sato playing a grand piano in a concert hall'
     piano = f'<p class="lead piano-intro">{escape(d["piano_intro"])}</p><figure class="piano-photo"><img src="/assets/img/IMG_8331.jpeg" alt="{photo_alt}" width="1512" height="2048" loading="lazy" decoding="async"></figure><h3 class="small-heading">{escape(performances["title"])}</h3>{timeline(performances["entries"])}'
@@ -189,9 +207,18 @@ def cv(lang):
         <p>{link(LINKS['cv'], t['cv_open'] + ' ↗', 'text-link', True)}</p>
       </div>
     </div>'''
-    toc = ''.join(link('#cv-' + str(i), escape(s['title'])) for i, s in enumerate(d['cv']))
+    conference_title = '学会発表' if lang == 'ja' else 'Academic conferences'
+    toc = ''
+    for i, s in enumerate(d['cv']):
+        if s['title'] == conference_title:
+            toc += link('#cv-publications', t['publications'])
+        toc += link('#cv-' + str(i), escape(s['title']))
     body = f'<div class="wrap cv-page"><div class="page-heading"><p class="eyebrow">Tomohide R. Sato / 佐藤智英</p><h1>{t["full_cv"]}</h1><p class="page-subtitle">{t["cv_subtitle"]}</p>{document}</div><nav class="cv-toc" aria-label="{"経歴の目次" if lang == "ja" else "Background contents"}">{toc}</nav>'
     for i, s in enumerate(d['cv']):
+        if s['title'] == conference_title:
+            correspondence = '† 責任著者' if lang == 'ja' else '† Corresponding author'
+            content = publication_list(lang) + f'<p class="correspondence">{correspondence}</p><h3 id="cv-manuscripts" class="small-heading">{manuscript_heading(lang)}</h3>' + manuscript_list(lang)
+            body += f'<section id="cv-publications" class="cv-section" aria-labelledby="cv-heading-publications"><h2 id="cv-heading-publications">{t["publications"]}</h2><div>{content}</div></section>'
         body += f'<section id="cv-{i}" class="cv-section" aria-labelledby="cv-heading-{i}"><h2 id="cv-heading-{i}">{escape(s["title"])}</h2>{timeline(s["entries"])}</section>'
     body += f'<div class="return-link">{link(home_path(lang), t["back"] + " →", "text-link")}</div></div>'
     return shell(lang, 'cv', t['full_cv'], body)
